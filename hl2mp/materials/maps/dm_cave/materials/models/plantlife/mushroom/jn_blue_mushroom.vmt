@@ -1,0 +1,6 @@
+ "VertexLitGeneric"
+  { 
+"$baseTexture" "Models/Plantlife/mushroom/jn_blue_mushroom"
+"$envmap" "env_cubemap"
+"$basealphaenvmapmask" 1
+  }

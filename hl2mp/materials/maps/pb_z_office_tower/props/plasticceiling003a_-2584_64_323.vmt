@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/PLASTICCEILING003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c-2584_64_323"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEWALL026D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_raven/c1375_622_368"
+	}
+}

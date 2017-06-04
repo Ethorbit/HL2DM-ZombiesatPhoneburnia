@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL045K.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_industry/c186_-1304_151"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODDOOR048A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_hellsdistrict/c1095_793_267"
+	}
+}

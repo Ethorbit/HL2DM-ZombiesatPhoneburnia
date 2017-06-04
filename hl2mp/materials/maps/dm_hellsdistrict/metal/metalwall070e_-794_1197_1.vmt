@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL070E.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_hellsdistrict/c-794_1197_1"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/TOXICSLIME002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_earthquake/c3487_-1052_-443"
+		"Proxies"
+		{
+		}
+	}
+}

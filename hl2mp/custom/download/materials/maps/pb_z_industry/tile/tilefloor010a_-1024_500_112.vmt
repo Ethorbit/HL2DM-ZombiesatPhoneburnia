@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR010A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_industry/c-1024_500_112"
+	}
+}

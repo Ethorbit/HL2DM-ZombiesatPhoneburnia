@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALCEILING005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c4450_337_551"
+	}
+}

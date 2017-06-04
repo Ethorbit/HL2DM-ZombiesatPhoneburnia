@@ -1,0 +1,177 @@
+L 05/12/2017 - 00:38:19: SourceMod error session started
+L 05/12/2017 - 00:38:19: Info (map "pb_z_office_tower_m") (file "errors_20170512.log")
+L 05/12/2017 - 00:38:19: Error log file session closed.
+L 05/12/2017 - 00:38:19: SourceMod error session started
+L 05/12/2017 - 00:38:19: Info (map "pb_z_office_tower_m") (file "errors_20170512.log")
+L 05/12/2017 - 00:38:19: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 00:38:19: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 00:38:19: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 00:38:19: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 01:36:22: SourceMod error session started
+L 05/12/2017 - 01:36:22: Info (map "pb_z_high_school_m") (file "errors_20170512.log")
+L 05/12/2017 - 01:36:22: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 05/12/2017 - 01:36:23: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 01:36:23: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 02:40:33: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 02:40:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 02:43:31: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/12/2017 - 02:43:31: [SM] Blaming: autodifficultypatch.smx
+L 05/12/2017 - 02:43:31: [SM] Call stack trace:
+L 05/12/2017 - 02:43:31: [SM]   [0] GetEntPropString
+L 05/12/2017 - 02:43:31: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/12/2017 - 02:43:31: [SM]   [2] Line 1194, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/12/2017 - 02:43:31: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/12/2017 - 03:33:39: Error log file session closed.
+L 05/12/2017 - 03:33:39: SourceMod error session started
+L 05/12/2017 - 03:33:39: Info (map "pb_z_disorder_m") (file "errors_20170512.log")
+L 05/12/2017 - 03:33:39: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 03:33:39: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 03:33:39: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 03:33:39: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 04:33:48: Error log file session closed.
+L 05/12/2017 - 04:33:48: SourceMod error session started
+L 05/12/2017 - 04:33:48: Info (map "pb_z_office_tower_m") (file "errors_20170512.log")
+L 05/12/2017 - 04:33:48: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 04:33:48: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 04:33:48: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 04:33:48: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 05:34:01: Error log file session closed.
+L 05/12/2017 - 05:34:02: SourceMod error session started
+L 05/12/2017 - 05:34:02: Info (map "dm_cave_m") (file "errors_20170512.log")
+L 05/12/2017 - 05:34:02: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 05:34:02: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 05:34:02: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 05:34:02: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 06:34:12: Error log file session closed.
+L 05/12/2017 - 06:34:12: SourceMod error session started
+L 05/12/2017 - 06:34:12: Info (map "dm_mine_entrance_m") (file "errors_20170512.log")
+L 05/12/2017 - 06:34:12: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 06:34:12: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 06:34:12: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 06:34:12: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 07:34:23: Error log file session closed.
+L 05/12/2017 - 07:34:23: SourceMod error session started
+L 05/12/2017 - 07:34:23: Info (map "pb_z_office_tower_v2_m") (file "errors_20170512.log")
+L 05/12/2017 - 07:34:23: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 07:34:23: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 07:34:23: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 07:34:23: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 08:34:33: Error log file session closed.
+L 05/12/2017 - 08:34:33: SourceMod error session started
+L 05/12/2017 - 08:34:33: Info (map "dm_coldruins_rc1_m") (file "errors_20170512.log")
+L 05/12/2017 - 08:34:33: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 08:34:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 08:34:33: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 08:34:33: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 09:34:42: Error log file session closed.
+L 05/12/2017 - 09:34:42: SourceMod error session started
+L 05/12/2017 - 09:34:42: Info (map "pb_z_underground_m") (file "errors_20170512.log")
+L 05/12/2017 - 09:34:42: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 09:34:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 09:34:42: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 09:34:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 10:34:52: Error log file session closed.
+L 05/12/2017 - 10:34:52: SourceMod error session started
+L 05/12/2017 - 10:34:52: Info (map "pb_z_high_school_m") (file "errors_20170512.log")
+L 05/12/2017 - 10:34:52: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 10:34:52: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 10:34:52: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 10:34:52: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 11:35:01: Error log file session closed.
+L 05/12/2017 - 11:35:01: SourceMod error session started
+L 05/12/2017 - 11:35:01: Info (map "dm_hellsdistrict_m") (file "errors_20170512.log")
+L 05/12/2017 - 11:35:01: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 11:35:01: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 11:35:01: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 11:35:01: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 12:35:11: Error log file session closed.
+L 05/12/2017 - 12:35:11: SourceMod error session started
+L 05/12/2017 - 12:35:11: Info (map "dm_montana_m") (file "errors_20170512.log")
+L 05/12/2017 - 12:35:11: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 12:35:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 12:35:11: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 12:35:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 13:35:21: Error log file session closed.
+L 05/12/2017 - 13:35:21: SourceMod error session started
+L 05/12/2017 - 13:35:21: Info (map "dm_raven_m") (file "errors_20170512.log")
+L 05/12/2017 - 13:35:21: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 13:35:21: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 13:35:21: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 13:35:21: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 14:27:41: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/12/2017 - 14:27:41: [SM] Blaming: autodifficultypatch.smx
+L 05/12/2017 - 14:27:41: [SM] Call stack trace:
+L 05/12/2017 - 14:27:41: [SM]   [0] GetEntPropString
+L 05/12/2017 - 14:27:41: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/12/2017 - 14:27:41: [SM]   [2] Line 968, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/12/2017 - 14:27:41: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/12/2017 - 14:35:31: Error log file session closed.
+L 05/12/2017 - 14:35:31: SourceMod error session started
+L 05/12/2017 - 14:35:31: Info (map "dm_morbid_m") (file "errors_20170512.log")
+L 05/12/2017 - 14:35:31: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 14:35:31: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 14:35:31: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 14:35:31: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 15:35:40: Error log file session closed.
+L 05/12/2017 - 15:35:40: SourceMod error session started
+L 05/12/2017 - 15:35:40: Info (map "pb_z_earthquake_m") (file "errors_20170512.log")
+L 05/12/2017 - 15:35:40: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 15:35:40: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 15:35:40: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 15:35:40: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 16:35:50: Error log file session closed.
+L 05/12/2017 - 16:35:50: SourceMod error session started
+L 05/12/2017 - 16:35:50: Info (map "pb_z_area51_m") (file "errors_20170512.log")
+L 05/12/2017 - 16:35:50: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 16:35:50: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 16:35:50: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 16:35:50: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 17:35:59: Error log file session closed.
+L 05/12/2017 - 17:35:59: SourceMod error session started
+L 05/12/2017 - 17:35:59: Info (map "pb_z_industry_m") (file "errors_20170512.log")
+L 05/12/2017 - 17:35:59: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 17:35:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 17:35:59: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 17:35:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 18:36:09: Error log file session closed.
+L 05/12/2017 - 18:36:09: SourceMod error session started
+L 05/12/2017 - 18:36:09: Info (map "pb_z_colony_m") (file "errors_20170512.log")
+L 05/12/2017 - 18:36:09: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 18:36:09: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 18:36:09: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 18:36:09: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 19:36:18: Error log file session closed.
+L 05/12/2017 - 19:36:18: SourceMod error session started
+L 05/12/2017 - 19:36:18: Info (map "dm_montana_m") (file "errors_20170512.log")
+L 05/12/2017 - 19:36:18: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 19:36:18: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 19:36:18: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 19:36:18: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 20:36:28: Error log file session closed.
+L 05/12/2017 - 20:36:28: SourceMod error session started
+L 05/12/2017 - 20:36:28: Info (map "dm_hellsdistrict_m") (file "errors_20170512.log")
+L 05/12/2017 - 20:36:28: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 20:36:28: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 20:36:28: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 20:36:28: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 21:36:38: Error log file session closed.
+L 05/12/2017 - 21:36:38: SourceMod error session started
+L 05/12/2017 - 21:36:38: Info (map "dm_raven_m") (file "errors_20170512.log")
+L 05/12/2017 - 21:36:38: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 21:36:38: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 21:36:38: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 21:36:38: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 22:36:47: Error log file session closed.
+L 05/12/2017 - 22:36:47: SourceMod error session started
+L 05/12/2017 - 22:36:47: Info (map "dm_mine_entrance_m") (file "errors_20170512.log")
+L 05/12/2017 - 22:36:47: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 22:36:47: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 22:36:47: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 22:36:47: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 23:36:56: Error log file session closed.
+L 05/12/2017 - 23:36:56: SourceMod error session started
+L 05/12/2017 - 23:36:56: Info (map "pb_z_earthquake_m") (file "errors_20170512.log")
+L 05/12/2017 - 23:36:56: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/12/2017 - 23:36:56: [SM] Error (line 0, column 0): Stream failed to open
+L 05/12/2017 - 23:36:56: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/12/2017 - 23:36:56: [SM] Error (line 0, column 0): Stream failed to open

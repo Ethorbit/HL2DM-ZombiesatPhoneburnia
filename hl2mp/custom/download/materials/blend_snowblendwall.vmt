@@ -1,0 +1,6 @@
+"worldvertextransition" 
+{ 
+"$basetexture" "nature/snowwall002a" 
+"$basetexture2" "nature/snowfloor002a" 
+"%keywords" "snowblend" 
+} 

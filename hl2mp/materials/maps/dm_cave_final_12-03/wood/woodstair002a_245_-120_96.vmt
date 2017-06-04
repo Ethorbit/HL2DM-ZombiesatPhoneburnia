@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODSTAIR002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_cave_final_12-03/c245_-120_96"
+	}
+}

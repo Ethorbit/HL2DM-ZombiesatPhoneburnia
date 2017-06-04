@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-3006_-1960_-1192"
+	}
+}

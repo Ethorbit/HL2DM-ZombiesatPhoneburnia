@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_warehouse/shelving/shelf_hook"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

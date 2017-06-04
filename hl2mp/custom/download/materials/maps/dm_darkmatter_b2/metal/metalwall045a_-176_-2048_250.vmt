@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL045A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_darkmatter_b2/c-176_-2048_250"
+	}
+}

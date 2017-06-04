@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/RUBBERFLOOR009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_high_school/c-1013_-517_200"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/ROCKWALL015A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_montana/c76_-1010_252"
+	}
+}

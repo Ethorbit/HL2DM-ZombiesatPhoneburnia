@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STONE/STONEFLOOR006A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_cave_final_12-03/c603_948_157"
+	}
+}

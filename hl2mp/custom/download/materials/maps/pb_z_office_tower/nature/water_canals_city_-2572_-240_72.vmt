@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CITY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c-2572_-240_72"
+		"Proxies"
+		{
+		}
+	}
+}

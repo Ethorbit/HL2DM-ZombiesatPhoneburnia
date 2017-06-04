@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL043D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c-1853_-672_323"
+	}
+}

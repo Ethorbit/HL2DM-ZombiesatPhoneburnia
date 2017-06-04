@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL090A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_darkmatter_b2/c753_-189_40"
+	}
+}

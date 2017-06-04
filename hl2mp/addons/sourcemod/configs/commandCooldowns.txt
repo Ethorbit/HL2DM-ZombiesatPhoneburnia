@@ -1,0 +1,20 @@
+"Choose a difficulty"
+{
+"difficulty"
+    {
+    "cooldown"    "120"
+	"shared"      "1"
+	"reply"   "[SM] Cooldown is in progress, wait {TIMELEFT} seconds before trying again!"
+	"plugin" "customvotes.smx"
+    }
+}
+
+"Choose a difficulty2"
+{
+"noclip"
+    {
+    "cooldown"    "120"
+	"shared"      "1"
+	"reply"   "[SM] Cooldown is in progress, wait {TIMELEFT} seconds before trying again!"
+    }
+}

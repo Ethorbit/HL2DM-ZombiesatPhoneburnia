@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODDOOR007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-4912_79_-83"
+	}
+}

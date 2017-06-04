@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/rp_downtown_v4c_r7/dev/dev_water2_-1864_-1560_-120.vmt"
+	"insert"
+	{
+		"$waterdepth"		"16"
+	}
+}

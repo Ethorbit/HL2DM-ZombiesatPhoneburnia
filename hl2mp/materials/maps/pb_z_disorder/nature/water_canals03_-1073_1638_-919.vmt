@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_disorder/c-1073_1638_-919"
+		"Proxies"
+		{
+		}
+	}
+}

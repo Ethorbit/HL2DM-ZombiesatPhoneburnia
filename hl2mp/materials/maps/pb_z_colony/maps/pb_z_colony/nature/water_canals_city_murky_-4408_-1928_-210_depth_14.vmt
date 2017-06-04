@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/pb_z_colony/nature/water_canals_city_murky_-4408_-1928_-210.vmt"
+	"insert"
+	{
+		"$waterdepth"		"14"
+	}
+}

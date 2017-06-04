@@ -1,0 +1,42 @@
+"Refract"
+{
+	"$normalmap"	"wet_glass\vertical_rain_drops_normal"
+	"$bumpmap"	"wet_glass\vertical_rain_drops_normal"
+	"$refracttint"	"[.85 .85 .85]"
+	"$refracttinttexture"	"wet_glass\wet_glass_tint"
+	"$refractamount"	"0.85"
+	"$bluramount"	"1"
+	"%tooltexture"	"wet_glass\wet_glass_tint"
+	"$bumpframe" "0"
+	"$normalframe" "0"
+	"$surfaceprop" "glass"
+	"%keywords" "glass"
+	"Proxies"
+	{
+
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 24
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$refracttintTransform"
+			"texturescrollrate" 0.25
+			"texturescrollangle" -90
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" 0.25
+			"texturescrollangle" -90
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$normaltransform"
+			"texturescrollrate" 0.25
+			"texturescrollangle" -90
+		}
+	}
+}

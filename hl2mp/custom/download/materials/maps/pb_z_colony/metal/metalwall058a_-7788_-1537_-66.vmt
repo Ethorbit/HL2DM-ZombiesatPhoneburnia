@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL058A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-7788_-1537_-66"
+	}
+}

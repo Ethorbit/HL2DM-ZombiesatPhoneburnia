@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_v4c_r7/c-1047_286_-132"
+	}
+}

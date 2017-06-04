@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_v4c_r7/c-1897_-663_79"
+		"$crackmaterial"		"maps/rp_downtown_v4c_r7/glass/glasswindowbreak070b_-1897_-663_79"
+	}
+}

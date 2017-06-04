@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COM_SHIELD003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-7073_-4364_-259"
+		"Proxies"
+		{
+		}
+	}
+}

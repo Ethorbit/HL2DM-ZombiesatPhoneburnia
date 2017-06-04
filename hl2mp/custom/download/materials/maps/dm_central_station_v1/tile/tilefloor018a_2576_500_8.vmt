@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR018A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c2576_500_8"
+	}
+}

@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_v4c_r7/c-1864_-1560_-120"
+		"Proxies"
+		{
+		}
+	}
+}

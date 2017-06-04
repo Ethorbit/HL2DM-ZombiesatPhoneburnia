@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALDOOR059A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_hellsdistrict/c1328_1166_145"
+	}
+}

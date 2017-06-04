@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODFLOOR006B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_raven/c689_119_146"
+	}
+}

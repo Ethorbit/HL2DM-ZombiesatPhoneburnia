@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/PB/GREENOOZE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-6075_-1789_-406"
+		"Proxies"
+		{
+		}
+	}
+}

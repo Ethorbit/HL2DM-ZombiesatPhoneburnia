@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/pb_z_earthquake/nature/water_canals03_1001_-3174_-1655.vmt"
+	"insert"
+	{
+		"$waterdepth"		"320"
+	}
+}

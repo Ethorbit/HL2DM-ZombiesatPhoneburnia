@@ -1,0 +1,73 @@
+L 05/16/2017 - 00:26:48: SourceMod error session started
+L 05/16/2017 - 00:26:48: Info (map "pb_z_office_tower_v2_m") (file "errors_20170516.log")
+L 05/16/2017 - 00:26:48: Error log file session closed.
+L 05/16/2017 - 00:26:48: SourceMod error session started
+L 05/16/2017 - 00:26:48: Info (map "pb_z_office_tower_v2_m") (file "errors_20170516.log")
+L 05/16/2017 - 00:26:48: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 00:26:48: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 00:26:48: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/16/2017 - 00:26:48: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 01:26:59: Error log file session closed.
+L 05/16/2017 - 01:26:59: SourceMod error session started
+L 05/16/2017 - 01:26:59: Info (map "pb_z_area51_m") (file "errors_20170516.log")
+L 05/16/2017 - 01:26:59: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 01:26:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 01:26:59: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/16/2017 - 01:26:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 01:41:06: SourceMod error session started
+L 05/16/2017 - 01:41:06: Info (map "pb_z_high_school_m") (file "errors_20170516.log")
+L 05/16/2017 - 01:41:06: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 05/16/2017 - 01:41:06: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 01:41:06: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 09:53:59: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/16/2017 - 09:53:59: [SM] Blaming: autodifficultypatch.smx
+L 05/16/2017 - 09:53:59: [SM] Call stack trace:
+L 05/16/2017 - 09:53:59: [SM]   [0] GetEntPropString
+L 05/16/2017 - 09:53:59: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/16/2017 - 09:53:59: [SM]   [2] Line 1194, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/16/2017 - 09:53:59: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/16/2017 - 10:28:02: Error log file session closed.
+L 05/16/2017 - 10:28:05: SourceMod error session started
+L 05/16/2017 - 10:28:05: Info (map "pb_z_colony_m") (file "errors_20170516.log")
+L 05/16/2017 - 10:28:05: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 10:28:05: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 11:28:16: Error log file session closed.
+L 05/16/2017 - 11:28:16: SourceMod error session started
+L 05/16/2017 - 11:28:16: Info (map "pb_z_office_tower_m") (file "errors_20170516.log")
+L 05/16/2017 - 11:28:16: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 11:28:16: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 12:28:27: Error log file session closed.
+L 05/16/2017 - 12:28:27: SourceMod error session started
+L 05/16/2017 - 12:28:27: Info (map "dm_morbid_m") (file "errors_20170516.log")
+L 05/16/2017 - 12:28:27: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 12:28:27: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 13:28:38: Error log file session closed.
+L 05/16/2017 - 13:28:38: SourceMod error session started
+L 05/16/2017 - 13:28:38: Info (map "dm_mine_entrance_m") (file "errors_20170516.log")
+L 05/16/2017 - 13:28:38: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 13:28:38: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 14:28:49: Error log file session closed.
+L 05/16/2017 - 14:28:49: SourceMod error session started
+L 05/16/2017 - 14:28:49: Info (map "pb_z_disorder_m") (file "errors_20170516.log")
+L 05/16/2017 - 14:28:49: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 14:28:49: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 15:29:01: Error log file session closed.
+L 05/16/2017 - 15:29:01: SourceMod error session started
+L 05/16/2017 - 15:29:01: Info (map "dm_montana_m") (file "errors_20170516.log")
+L 05/16/2017 - 15:29:01: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 15:29:01: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 16:29:11: Error log file session closed.
+L 05/16/2017 - 16:29:11: SourceMod error session started
+L 05/16/2017 - 16:29:11: Info (map "dm_hellsdistrict_m") (file "errors_20170516.log")
+L 05/16/2017 - 16:29:11: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 16:29:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 17:29:21: Error log file session closed.
+L 05/16/2017 - 17:29:21: SourceMod error session started
+L 05/16/2017 - 17:29:21: Info (map "dm_raven_m") (file "errors_20170516.log")
+L 05/16/2017 - 17:29:21: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 17:29:21: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2017 - 17:29:31: SourceMod error session started
+L 05/16/2017 - 17:29:31: Info (map "pb_z_high_school_m") (file "errors_20170516.log")
+L 05/16/2017 - 17:29:31: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 05/16/2017 - 17:29:32: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/16/2017 - 17:29:32: [SM] Error (line 0, column 0): Stream failed to open

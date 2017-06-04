@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/pb_z_underground/nature/water_canals_city_512_1200_72.vmt"
+	"insert"
+	{
+		"$waterdepth"		"58"
+	}
+}

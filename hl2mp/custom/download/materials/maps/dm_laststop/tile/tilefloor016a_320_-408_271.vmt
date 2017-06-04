@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR016A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_laststop/c320_-408_271"
+	}
+}

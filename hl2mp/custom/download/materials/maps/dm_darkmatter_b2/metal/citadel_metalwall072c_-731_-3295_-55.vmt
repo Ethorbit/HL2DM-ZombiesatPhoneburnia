@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL072C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_darkmatter_b2/c-731_-3295_-55"
+	}
+}

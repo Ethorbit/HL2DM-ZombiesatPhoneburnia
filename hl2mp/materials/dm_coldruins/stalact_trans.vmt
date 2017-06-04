@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "dm_coldruins/stalact_trans"
+	"$translucent" 1
+	"$surfaceprop" "ice"
+}

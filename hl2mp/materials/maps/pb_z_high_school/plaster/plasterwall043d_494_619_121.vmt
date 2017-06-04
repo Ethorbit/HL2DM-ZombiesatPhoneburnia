@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL043D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_high_school/c494_619_121"
+	}
+}

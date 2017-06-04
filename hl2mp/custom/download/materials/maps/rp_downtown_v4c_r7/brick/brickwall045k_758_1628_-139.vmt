@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL045K.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_v4c_r7/c758_1628_-139"
+	}
+}

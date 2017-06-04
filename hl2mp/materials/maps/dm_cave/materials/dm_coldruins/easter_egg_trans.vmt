@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "dm_coldruins/easter_egg_trans"
+	"$translucent" 1
+	"$surfaceprop" "concrete"
+}

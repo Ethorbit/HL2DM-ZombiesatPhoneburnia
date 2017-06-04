@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE001F.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c-686_-620_566"
+	}
+}

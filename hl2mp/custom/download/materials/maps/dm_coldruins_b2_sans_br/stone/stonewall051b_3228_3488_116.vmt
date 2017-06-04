@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STONE/STONEWALL051B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_coldruins_b2_sans_br/c3228_3488_116"
+	}
+}

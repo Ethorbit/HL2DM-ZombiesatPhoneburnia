@@ -1,0 +1,12 @@
+"Refract"
+{
+	"$normalmap"	"wet_glass\wet_glass_normal"
+	"$bumpmap"	"wet_glass\wet_glass_normal"
+	"$refracttint"	"[1 1 1]"
+	"$refracttinttexture"	"wet_glass\wet_glass_tint"
+	"$refractamount"	"0.85"
+	"$bluramount"	"1"
+	"$surfaceprop" "glass"
+	"%keywords" "glass"
+	"%tooltexture"	"wet_glass\wet_glass_tint"
+}

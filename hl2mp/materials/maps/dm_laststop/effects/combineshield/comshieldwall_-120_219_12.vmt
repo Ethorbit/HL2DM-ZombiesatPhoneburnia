@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COMBINESHIELD/COMSHIELDWALL.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_laststop/c-120_219_12"
+		"Proxies"
+		{
+		}
+	}
+}

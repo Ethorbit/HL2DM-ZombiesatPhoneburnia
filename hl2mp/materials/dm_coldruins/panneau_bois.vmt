@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "dm_coldruins/panneau_bois"
+	"$surfaceprop" "wood"
+}

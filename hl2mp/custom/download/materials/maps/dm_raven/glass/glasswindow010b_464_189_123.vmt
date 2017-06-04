@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOW010B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_raven/c464_189_123"
+	}
+}

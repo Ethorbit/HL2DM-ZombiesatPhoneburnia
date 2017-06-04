@@ -1,0 +1,245 @@
+L 05/13/2017 - 00:37:07: SourceMod error session started
+L 05/13/2017 - 00:37:07: Info (map "dm_laststop_m") (file "errors_20170513.log")
+L 05/13/2017 - 00:37:07: Error log file session closed.
+L 05/13/2017 - 00:37:07: SourceMod error session started
+L 05/13/2017 - 00:37:07: Info (map "dm_laststop_m") (file "errors_20170513.log")
+L 05/13/2017 - 00:37:07: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 00:37:07: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 00:37:07: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 00:37:07: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 01:36:02: SourceMod error session started
+L 05/13/2017 - 01:36:02: Info (map "pb_z_high_school_m") (file "errors_20170513.log")
+L 05/13/2017 - 01:36:02: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 05/13/2017 - 01:36:02: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 01:36:02: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 05:15:16: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 05:15:16: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 05:15:16: [SM] Call stack trace:
+L 05/13/2017 - 05:15:16: [SM]   [0] GetEntPropString
+L 05/13/2017 - 05:15:16: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 05:15:16: [SM]   [2] Line 1194, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 05:15:16: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 06:09:49: Error log file session closed.
+L 05/13/2017 - 06:09:49: SourceMod error session started
+L 05/13/2017 - 06:09:49: Info (map "dm_cave_m") (file "errors_20170513.log")
+L 05/13/2017 - 06:09:49: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 06:09:49: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 07:10:01: Error log file session closed.
+L 05/13/2017 - 07:10:01: SourceMod error session started
+L 05/13/2017 - 07:10:01: Info (map "pb_z_area51_m") (file "errors_20170513.log")
+L 05/13/2017 - 07:10:01: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 07:10:01: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 08:10:11: Error log file session closed.
+L 05/13/2017 - 08:10:11: SourceMod error session started
+L 05/13/2017 - 08:10:11: Info (map "pb_z_underground_m") (file "errors_20170513.log")
+L 05/13/2017 - 08:10:11: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 08:10:11: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 09:10:22: Error log file session closed.
+L 05/13/2017 - 09:10:22: SourceMod error session started
+L 05/13/2017 - 09:10:22: Info (map "pb_z_earthquake_m") (file "errors_20170513.log")
+L 05/13/2017 - 09:10:22: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 09:10:22: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 09:58:04: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 09:58:04: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 09:58:04: [SM] Call stack trace:
+L 05/13/2017 - 09:58:04: [SM]   [0] GetEntPropString
+L 05/13/2017 - 09:58:04: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 09:58:04: [SM]   [2] Line 818, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 09:58:04: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 10:10:32: Error log file session closed.
+L 05/13/2017 - 10:10:32: SourceMod error session started
+L 05/13/2017 - 10:10:32: Info (map "dm_hellsdistrict_m") (file "errors_20170513.log")
+L 05/13/2017 - 10:10:32: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 10:10:32: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 11:10:42: Error log file session closed.
+L 05/13/2017 - 11:10:42: SourceMod error session started
+L 05/13/2017 - 11:10:42: Info (map "pb_z_industry_m") (file "errors_20170513.log")
+L 05/13/2017 - 11:10:42: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 11:10:42: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 12:10:53: Error log file session closed.
+L 05/13/2017 - 12:10:53: SourceMod error session started
+L 05/13/2017 - 12:10:53: Info (map "dm_raven_m") (file "errors_20170513.log")
+L 05/13/2017 - 12:10:53: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 12:10:53: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 12:10:55: SourceMod error session started
+L 05/13/2017 - 12:10:55: Info (map "pb_z_high_school_m") (file "errors_20170513.log")
+L 05/13/2017 - 12:10:55: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 05/13/2017 - 12:10:56: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 12:10:56: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 13:52:39: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 13:52:39: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 13:59:53: [SM] Exception reported: Entity 2 (2) is invalid
+L 05/13/2017 - 13:59:53: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 13:59:53: [SM] Call stack trace:
+L 05/13/2017 - 13:59:53: [SM]   [0] GetEntPropString
+L 05/13/2017 - 13:59:53: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 13:59:53: [SM]   [2] Line 1202, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 13:59:53: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 14:01:34: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 14:01:34: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 14:01:34: [SM] Call stack trace:
+L 05/13/2017 - 14:01:34: [SM]   [0] GetEntPropString
+L 05/13/2017 - 14:01:34: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 14:01:34: [SM]   [2] Line 1194, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 14:01:34: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 14:01:35: Error log file session closed.
+L 05/13/2017 - 14:01:35: SourceMod error session started
+L 05/13/2017 - 14:01:35: Info (map "pb_z_earthquake_m") (file "errors_20170513.log")
+L 05/13/2017 - 14:01:35: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 14:01:35: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 14:01:35: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 14:01:35: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 14:28:19: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 14:28:19: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 14:28:19: [SM] Call stack trace:
+L 05/13/2017 - 14:28:19: [SM]   [0] GetEntPropString
+L 05/13/2017 - 14:28:19: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 14:28:19: [SM]   [2] Line 818, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 14:28:19: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 15:01:44: Error log file session closed.
+L 05/13/2017 - 15:01:45: SourceMod error session started
+L 05/13/2017 - 15:01:45: Info (map "dm_hellsdistrict_m") (file "errors_20170513.log")
+L 05/13/2017 - 15:01:45: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 15:01:45: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 15:01:45: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 15:01:45: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 15:21:50: Error log file session closed.
+L 05/13/2017 - 15:21:50: SourceMod error session started
+L 05/13/2017 - 15:21:50: Info (map "pb_z_disorder_m") (file "errors_20170513.log")
+L 05/13/2017 - 15:21:50: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 15:21:50: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 15:21:50: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 15:21:50: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 15:28:45: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 15:28:45: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 15:28:45: [SM] Call stack trace:
+L 05/13/2017 - 15:28:45: [SM]   [0] GetEntPropString
+L 05/13/2017 - 15:28:45: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 15:28:45: [SM]   [2] Line 443, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 15:28:45: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 15:56:36: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 15:56:36: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 15:56:36: [SM] Call stack trace:
+L 05/13/2017 - 15:56:36: [SM]   [0] GetEntPropString
+L 05/13/2017 - 15:56:36: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 15:56:36: [SM]   [2] Line 443, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 15:56:36: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 16:22:03: Error log file session closed.
+L 05/13/2017 - 16:22:03: SourceMod error session started
+L 05/13/2017 - 16:22:03: Info (map "pb_z_underground_m") (file "errors_20170513.log")
+L 05/13/2017 - 16:22:03: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 16:22:03: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 16:22:03: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 16:22:03: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 17:22:12: Error log file session closed.
+L 05/13/2017 - 17:22:12: SourceMod error session started
+L 05/13/2017 - 17:22:12: Info (map "dm_cave_m") (file "errors_20170513.log")
+L 05/13/2017 - 17:22:12: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 17:22:12: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 17:22:12: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 17:22:12: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 18:22:22: Error log file session closed.
+L 05/13/2017 - 18:22:22: SourceMod error session started
+L 05/13/2017 - 18:22:22: Info (map "dm_mine_entrance_m") (file "errors_20170513.log")
+L 05/13/2017 - 18:22:22: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 18:22:22: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 18:22:22: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 18:22:22: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 18:36:36: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 18:36:36: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 18:36:36: [SM] Call stack trace:
+L 05/13/2017 - 18:36:36: [SM]   [0] GetEntPropString
+L 05/13/2017 - 18:36:36: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 18:36:36: [SM]   [2] Line 1043, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 18:36:36: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 18:54:02: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 18:54:02: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 18:54:02: [SM] Call stack trace:
+L 05/13/2017 - 18:54:02: [SM]   [0] GetEntPropString
+L 05/13/2017 - 18:54:02: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 18:54:02: [SM]   [2] Line 1043, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 18:54:02: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:01:07: [SM] Exception reported: Entity 2 (2) is invalid
+L 05/13/2017 - 19:01:07: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:01:07: [SM] Call stack trace:
+L 05/13/2017 - 19:01:07: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:01:07: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:01:07: [SM]   [2] Line 1051, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:01:07: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:22:31: [SM] Exception reported: Entity 1 (1) is invalid
+L 05/13/2017 - 19:22:31: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:22:31: [SM] Call stack trace:
+L 05/13/2017 - 19:22:31: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:22:31: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:22:31: [SM]   [2] Line 1059, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:22:31: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:22:31: [SM] Exception reported: Entity 2 (2) is invalid
+L 05/13/2017 - 19:22:32: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:22:32: [SM] Call stack trace:
+L 05/13/2017 - 19:22:32: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:22:32: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:22:32: [SM]   [2] Line 1051, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:22:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:22:32: [SM] Exception reported: Entity 3 (3) is invalid
+L 05/13/2017 - 19:22:32: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:22:32: [SM] Call stack trace:
+L 05/13/2017 - 19:22:32: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:22:32: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:22:32: [SM]   [2] Line 1043, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:22:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:22:32: Error log file session closed.
+L 05/13/2017 - 19:22:32: SourceMod error session started
+L 05/13/2017 - 19:22:32: Info (map "dm_october_m") (file "errors_20170513.log")
+L 05/13/2017 - 19:22:32: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 19:22:32: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 19:22:32: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 19:22:32: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 19:25:10: [SM] Exception reported: Entity 2 (2) is invalid
+L 05/13/2017 - 19:25:10: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:25:10: [SM] Call stack trace:
+L 05/13/2017 - 19:25:10: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:25:10: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:25:10: [SM]   [2] Line 50, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:25:10: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:32:48: [SM] Exception reported: Entity 3 (3) is invalid
+L 05/13/2017 - 19:32:48: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:32:48: [SM] Call stack trace:
+L 05/13/2017 - 19:32:48: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:32:48: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:32:48: [SM]   [2] Line 42, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:32:48: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 19:49:10: [SM] Exception reported: Entity 2 (2) is invalid
+L 05/13/2017 - 19:49:10: [SM] Blaming: autodifficultypatch.smx
+L 05/13/2017 - 19:49:10: [SM] Call stack trace:
+L 05/13/2017 - 19:49:10: [SM]   [0] GetEntPropString
+L 05/13/2017 - 19:49:10: [SM]   [1] Line 1420, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 05/13/2017 - 19:49:10: [SM]   [2] Line 42, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 05/13/2017 - 19:49:10: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 05/13/2017 - 20:22:43: Error log file session closed.
+L 05/13/2017 - 20:22:43: SourceMod error session started
+L 05/13/2017 - 20:22:43: Info (map "pb_z_high_school_m") (file "errors_20170513.log")
+L 05/13/2017 - 20:22:43: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 20:22:43: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 20:22:43: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 20:22:43: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 21:22:57: Error log file session closed.
+L 05/13/2017 - 21:22:57: SourceMod error session started
+L 05/13/2017 - 21:22:57: Info (map "pb_z_office_tower_v2_m") (file "errors_20170513.log")
+L 05/13/2017 - 21:22:57: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 21:22:57: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 21:22:57: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 21:22:57: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 22:23:06: Error log file session closed.
+L 05/13/2017 - 22:23:06: SourceMod error session started
+L 05/13/2017 - 22:23:06: Info (map "pb_z_industry_m") (file "errors_20170513.log")
+L 05/13/2017 - 22:23:06: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 22:23:06: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 22:23:06: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 22:23:06: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 23:23:17: Error log file session closed.
+L 05/13/2017 - 23:23:17: SourceMod error session started
+L 05/13/2017 - 23:23:17: Info (map "dm_laststop_m") (file "errors_20170513.log")
+L 05/13/2017 - 23:23:17: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 05/13/2017 - 23:23:17: [SM] Error (line 0, column 0): Stream failed to open
+L 05/13/2017 - 23:23:17: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 05/13/2017 - 23:23:17: [SM] Error (line 0, column 0): Stream failed to open

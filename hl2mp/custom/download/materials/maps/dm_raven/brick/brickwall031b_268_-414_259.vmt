@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL031B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_raven/c268_-414_259"
+	}
+}

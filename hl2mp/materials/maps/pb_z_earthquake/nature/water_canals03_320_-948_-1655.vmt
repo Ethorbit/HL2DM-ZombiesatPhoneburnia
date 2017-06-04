@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS03.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_earthquake/c320_-948_-1655"
+		"Proxies"
+		{
+		}
+	}
+}

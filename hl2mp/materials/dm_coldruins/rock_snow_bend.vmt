@@ -1,0 +1,6 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "dm_coldruins/rock"
+	"$basetexture2" "dm_coldruins/snowfield"
+	"$surfaceprop" "snow"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gothic2\ItMeleeBlades"
+"$envmap" "env_cubemap"
+	"$envmapmask" "models\gothic2\ItMeleeBladesmask"
+}

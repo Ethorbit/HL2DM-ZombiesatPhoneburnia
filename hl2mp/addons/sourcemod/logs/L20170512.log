@@ -1,0 +1,95 @@
+L 05/12/2017 - 00:35:08: SourceMod log file session started (file "L20170512.log") (Version "1.8.0.5973")
+L 05/12/2017 - 00:35:08: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 00:38:19: [SM] Changed map to "pb_z_office_tower_m"
+L 05/12/2017 - 00:38:19: -------- Mapchange to pb_z_office_tower_m --------
+L 05/12/2017 - 00:38:24: [randomcycle.smx] RandomCycle has chosen pb_z_industry_m for the nextmap.
+L 05/12/2017 - 01:35:17: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 01:36:22: SourceMod log file session started (file "L20170512.log") (Version "1.8.0.5973")
+L 05/12/2017 - 01:36:22: -------- Mapchange to pb_z_high_school_m --------
+L 05/12/2017 - 01:36:23: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 05/12/2017 - 01:36:29: [randomcycle.smx] RandomCycle has chosen dm_montana_m for the nextmap.
+L 05/12/2017 - 02:40:33: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 05/12/2017 - 03:30:28: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 03:33:39: [SM] Changed map to "pb_z_disorder_m"
+L 05/12/2017 - 03:33:39: -------- Mapchange to pb_z_disorder_m --------
+L 05/12/2017 - 03:33:44: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 05/12/2017 - 04:30:37: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 04:33:48: [SM] Changed map to "pb_z_office_tower_m"
+L 05/12/2017 - 04:33:48: -------- Mapchange to pb_z_office_tower_m --------
+L 05/12/2017 - 04:33:53: [randomcycle.smx] RandomCycle has chosen dm_morbid_m for the nextmap.
+L 05/12/2017 - 05:30:46: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 05:33:57: [SM] Changed map to "dm_cave_m"
+L 05/12/2017 - 05:34:01: -------- Mapchange to dm_cave_m --------
+L 05/12/2017 - 05:34:07: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 05/12/2017 - 06:31:00: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 06:34:11: [SM] Changed map to "dm_mine_entrance_m"
+L 05/12/2017 - 06:34:12: -------- Mapchange to dm_mine_entrance_m --------
+L 05/12/2017 - 06:34:17: [randomcycle.smx] RandomCycle has chosen dm_mine_entrance_m for the nextmap.
+L 05/12/2017 - 07:31:10: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 07:34:21: [SM] Changed map to "pb_z_office_tower_v2_m"
+L 05/12/2017 - 07:34:23: -------- Mapchange to pb_z_office_tower_v2_m --------
+L 05/12/2017 - 07:34:28: [randomcycle.smx] RandomCycle has chosen dm_laststop_m for the nextmap.
+L 05/12/2017 - 08:31:21: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 08:34:32: [SM] Changed map to "dm_coldruins_rc1_m"
+L 05/12/2017 - 08:34:33: -------- Mapchange to dm_coldruins_rc1_m --------
+L 05/12/2017 - 08:34:38: [randomcycle.smx] RandomCycle has chosen pb_z_area51_m for the nextmap.
+L 05/12/2017 - 09:31:31: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 09:34:42: [SM] Changed map to "pb_z_underground_m"
+L 05/12/2017 - 09:34:42: -------- Mapchange to pb_z_underground_m --------
+L 05/12/2017 - 09:34:47: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 05/12/2017 - 10:31:40: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 10:34:51: [SM] Changed map to "pb_z_high_school_m"
+L 05/12/2017 - 10:34:52: -------- Mapchange to pb_z_high_school_m --------
+L 05/12/2017 - 10:34:57: [randomcycle.smx] RandomCycle has chosen pb_z_high_school_m for the nextmap.
+L 05/12/2017 - 11:31:50: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 11:35:01: [SM] Changed map to "dm_hellsdistrict_m"
+L 05/12/2017 - 11:35:01: -------- Mapchange to dm_hellsdistrict_m --------
+L 05/12/2017 - 11:35:07: [randomcycle.smx] RandomCycle has chosen pb_z_colony_m for the nextmap.
+L 05/12/2017 - 12:32:00: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 12:35:11: [SM] Changed map to "dm_montana_m"
+L 05/12/2017 - 12:35:11: -------- Mapchange to dm_montana_m --------
+L 05/12/2017 - 12:35:16: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 05/12/2017 - 13:32:09: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 13:35:20: [SM] Changed map to "dm_raven_m"
+L 05/12/2017 - 13:35:21: -------- Mapchange to dm_raven_m --------
+L 05/12/2017 - 13:35:26: [randomcycle.smx] RandomCycle has chosen pb_z_earthquake_m for the nextmap.
+L 05/12/2017 - 14:32:19: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 14:35:30: [SM] Changed map to "dm_morbid_m"
+L 05/12/2017 - 14:35:31: -------- Mapchange to dm_morbid_m --------
+L 05/12/2017 - 14:35:36: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_v2_m for the nextmap.
+L 05/12/2017 - 15:32:29: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 15:35:40: [SM] Changed map to "pb_z_earthquake_m"
+L 05/12/2017 - 15:35:40: -------- Mapchange to pb_z_earthquake_m --------
+L 05/12/2017 - 15:35:45: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 05/12/2017 - 16:32:38: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 16:35:49: [SM] Changed map to "pb_z_area51_m"
+L 05/12/2017 - 16:35:50: -------- Mapchange to pb_z_area51_m --------
+L 05/12/2017 - 16:35:55: [randomcycle.smx] RandomCycle has chosen dm_laststop_m for the nextmap.
+L 05/12/2017 - 17:32:48: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 17:35:59: [SM] Changed map to "pb_z_industry_m"
+L 05/12/2017 - 17:35:59: -------- Mapchange to pb_z_industry_m --------
+L 05/12/2017 - 17:36:04: [randomcycle.smx] RandomCycle has chosen pb_z_industry_m for the nextmap.
+L 05/12/2017 - 18:32:57: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 18:36:08: [SM] Changed map to "pb_z_colony_m"
+L 05/12/2017 - 18:36:09: -------- Mapchange to pb_z_colony_m --------
+L 05/12/2017 - 18:36:14: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 05/12/2017 - 19:33:07: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 19:36:18: [SM] Changed map to "dm_montana_m"
+L 05/12/2017 - 19:36:18: -------- Mapchange to dm_montana_m --------
+L 05/12/2017 - 19:36:23: [randomcycle.smx] RandomCycle has chosen pb_z_area51_m for the nextmap.
+L 05/12/2017 - 20:33:17: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 20:36:28: [SM] Changed map to "dm_hellsdistrict_m"
+L 05/12/2017 - 20:36:28: -------- Mapchange to dm_hellsdistrict_m --------
+L 05/12/2017 - 20:36:33: [randomcycle.smx] RandomCycle has chosen dm_cave_m for the nextmap.
+L 05/12/2017 - 21:33:26: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 21:36:37: [SM] Changed map to "dm_raven_m"
+L 05/12/2017 - 21:36:38: -------- Mapchange to dm_raven_m --------
+L 05/12/2017 - 21:36:43: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 05/12/2017 - 22:33:36: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 22:36:47: [SM] Changed map to "dm_mine_entrance_m"
+L 05/12/2017 - 22:36:47: -------- Mapchange to dm_mine_entrance_m --------
+L 05/12/2017 - 22:36:52: [randomcycle.smx] RandomCycle has chosen dm_raven_m for the nextmap.
+L 05/12/2017 - 23:33:45: [mapchooser.smx] Voting for next map has started.
+L 05/12/2017 - 23:36:56: [SM] Changed map to "pb_z_earthquake_m"
+L 05/12/2017 - 23:36:56: -------- Mapchange to pb_z_earthquake_m --------
+L 05/12/2017 - 23:37:01: [randomcycle.smx] RandomCycle has chosen pb_z_industry_m for the nextmap.

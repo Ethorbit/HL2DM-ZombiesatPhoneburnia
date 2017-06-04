@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CITY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_snowfall/c7_843_184"
+		"Proxies"
+		{
+		}
+	}
+}

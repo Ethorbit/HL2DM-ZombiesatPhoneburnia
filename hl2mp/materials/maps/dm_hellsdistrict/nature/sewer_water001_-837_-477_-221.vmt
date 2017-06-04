@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SEWER_WATER001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_hellsdistrict/c-837_-477_-221"
+		"Proxies"
+		{
+		}
+	}
+}

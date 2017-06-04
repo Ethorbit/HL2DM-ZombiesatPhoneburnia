@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/MODELS/PROPS_COMBINE/STASISSHIELD_SHEET.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_darkmatter_b2/c-1028_712_8"
+		"Proxies"
+		{
+		}
+	}
+}

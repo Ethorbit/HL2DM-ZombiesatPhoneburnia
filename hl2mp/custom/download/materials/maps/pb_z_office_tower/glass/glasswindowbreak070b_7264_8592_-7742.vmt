@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c7264_8592_-7742"
+		"Proxies"
+		{
+		}
+	}
+}

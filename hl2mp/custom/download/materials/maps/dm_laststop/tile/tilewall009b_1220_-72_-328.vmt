@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEWALL009B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_laststop/c1220_-72_-328"
+	}
+}

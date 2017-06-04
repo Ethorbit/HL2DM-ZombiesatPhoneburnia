@@ -1,0 +1,15 @@
+ "LightmappedGeneric"
+  {
+      // Unsere .vtf Datei die wir anzeigen lassen wollen
+      "$basetexture" "dm_montana\picface2"
+
+      // Textur hat einen Alpha Channel, den wollen wir durchtsichtig haben
+      "$translucent" 1
+
+      // 0 - Zeigt keine Backfaces an
+      // 1 - Zeigt Backfaces (schwer zu erklaeren, evtl. folgt spaeter ein Bildbeispiel)
+      "$nocull" 0
+
+      // Laesst Kugeln durch durchsichtige Bereiche hindurch, blockt sie bei sichtbaren.
+      "%compilepassbullets" 1
+  }

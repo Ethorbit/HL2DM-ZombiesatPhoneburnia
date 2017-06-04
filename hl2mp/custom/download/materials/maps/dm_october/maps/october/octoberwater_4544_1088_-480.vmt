@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/MAPS/OCTOBER/OCTOBERWATER.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_october/c4544_1088_-480"
+		"Proxies"
+		{
+		}
+	}
+}

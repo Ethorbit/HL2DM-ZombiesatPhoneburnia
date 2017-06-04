@@ -1,0 +1,548 @@
+// usage: "trigger" "Title" http://www.site.com
+// tags: {NAME} {STEAM_ID} {USER_ID} {IP} {SERVER_IP} {SERVER_PORT}
+// "rank" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+// "leaderboard" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+// "position" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+// "points" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+// "score" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+// http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/
+
+"positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"Positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"POSITIONS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"RANKS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"LEADERBOARD"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"SCORES"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"RANK"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"STATS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"STATISTICS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"SCORE"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"POINTS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"Position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"POSITION"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!RANKS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/Ranks"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/RANKS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+ 
+"!Leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!LEADERBOARD"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Leaderboard"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/LEADERBOARD"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!SCORES"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Scores"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/SCORES"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!RANK"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Rank"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/RANK"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!STATS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Stats"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+ 
+"/STATS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!STATISTICS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Statistics"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/STATISTICS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!SCORE"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Score"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/SCORE"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!Points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!POINTS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/Points"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"/POINTS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+}  
+
+"!positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!Positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!POSITIONS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/Positions"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/POSITIONS"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!Position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"!POSITION"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/Position"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 
+
+"/POSITION"
+{
+    "Url" "http://www.gametracker.com/server_info/162.248.94.55:27015/top_players/"
+    "Title" "Player statistics"
+} 

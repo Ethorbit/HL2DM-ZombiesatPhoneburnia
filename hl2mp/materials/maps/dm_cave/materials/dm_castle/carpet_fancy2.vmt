@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "dm_castle/carpet_fancy2"
+	"$translucent" 1
+	"$surfaceprop" "carpet"
+}

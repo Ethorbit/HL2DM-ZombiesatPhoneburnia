@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/nature/water_canals03_beneath.vmt"
+	"insert"
+	{
+		"$waterdepth"		"32"
+	}
+}

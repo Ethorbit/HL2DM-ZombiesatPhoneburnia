@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_area51/c1980_-1206_84"
+	}
+}

@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/pb/goldsign"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 0.8
+	"$envmapsaturation" 0.5
+	"$envmaptint" "[ .8 .8 .8 ]"
+}

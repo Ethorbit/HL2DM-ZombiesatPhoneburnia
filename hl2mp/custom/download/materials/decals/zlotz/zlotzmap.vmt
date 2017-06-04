@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+"$basetexture" "decals\zlotz\zlotzmap"
+"$decal" 1
+"$decalscale" 1.0
+"$translucent" 1
+}

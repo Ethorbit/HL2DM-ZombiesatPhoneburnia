@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL101B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c1928_833_53"
+	}
+}

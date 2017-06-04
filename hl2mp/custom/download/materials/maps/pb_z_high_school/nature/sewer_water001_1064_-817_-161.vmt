@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SEWER_WATER001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_high_school/c1064_-817_-161"
+		"Proxies"
+		{
+		}
+	}
+}

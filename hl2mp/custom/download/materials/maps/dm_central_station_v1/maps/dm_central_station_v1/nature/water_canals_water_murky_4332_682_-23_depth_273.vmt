@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_central_station_v1/nature/water_canals_water_murky_4332_682_-23.vmt"
+	"insert"
+	{
+		"$waterdepth"		"273"
+	}
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/pb/pfbr"
+	"$surfaceprop" "concrete"
+}

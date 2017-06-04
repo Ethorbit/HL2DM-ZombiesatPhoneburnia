@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE010A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_area51/c1156_-477_161"
+	}
+}

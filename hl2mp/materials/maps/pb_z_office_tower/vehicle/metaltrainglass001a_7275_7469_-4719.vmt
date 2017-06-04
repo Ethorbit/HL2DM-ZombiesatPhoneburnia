@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/VEHICLE/METALTRAINGLASS001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c7275_7469_-4719"
+	}
+}

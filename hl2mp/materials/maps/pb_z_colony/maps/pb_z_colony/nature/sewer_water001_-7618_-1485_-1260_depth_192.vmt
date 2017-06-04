@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/pb_z_colony/nature/sewer_water001_-7618_-1485_-1260.vmt"
+	"insert"
+	{
+		"$waterdepth"		"192"
+	}
+}

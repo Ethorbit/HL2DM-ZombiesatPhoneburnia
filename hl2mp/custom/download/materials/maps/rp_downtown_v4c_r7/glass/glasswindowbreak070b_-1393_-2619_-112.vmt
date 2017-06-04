@@ -1,0 +1,10 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"Proxies"
+		{
+		}
+	}
+}

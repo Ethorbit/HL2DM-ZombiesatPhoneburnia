@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/VEHICLE/RUBBERTRAINFLOOR002A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c-104_700_64"
+	}
+}

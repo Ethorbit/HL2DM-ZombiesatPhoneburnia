@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/SEWER_WATER001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-2904_1907_-995"
+		"Proxies"
+		{
+		}
+	}
+}

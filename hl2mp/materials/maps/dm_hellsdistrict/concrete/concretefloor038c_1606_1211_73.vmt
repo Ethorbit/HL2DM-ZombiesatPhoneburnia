@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR038C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_hellsdistrict/c1606_1211_73"
+	}
+}

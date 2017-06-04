@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/VEHICLE/METALTRAIN001B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_laststop/c-484_235_160"
+	}
+}

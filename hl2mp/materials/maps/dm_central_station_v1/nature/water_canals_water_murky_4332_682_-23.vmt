@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_WATER_MURKY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c4332_682_-23"
+		"Proxies"
+		{
+		}
+	}
+}

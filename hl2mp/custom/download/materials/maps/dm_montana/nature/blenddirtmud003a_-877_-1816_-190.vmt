@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/BLENDDIRTMUD003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_montana/c-877_-1816_-190"
+	}
+}

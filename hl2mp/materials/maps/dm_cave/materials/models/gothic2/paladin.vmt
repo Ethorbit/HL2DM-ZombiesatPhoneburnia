@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gothic2\Paladin"
+"$envmap" "env_cubemap"
+	"$envmapmask" "models\gothic2\Paladin_mask"
+}
+
+

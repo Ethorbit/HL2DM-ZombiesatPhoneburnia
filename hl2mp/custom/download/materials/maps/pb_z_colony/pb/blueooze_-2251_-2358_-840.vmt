@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/PB/BLUEOOZE.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-2251_-2358_-840"
+		"Proxies"
+		{
+		}
+	}
+}

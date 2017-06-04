@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEWALL006A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_earthquake/c235_-1039_201"
+	}
+}

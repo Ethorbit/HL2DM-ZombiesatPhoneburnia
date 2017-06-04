@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_TILEWALL005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_high_school/c-796_-1140_107"
+	}
+}

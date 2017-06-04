@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CITY_MURKY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_colony/c-4408_-1928_-210"
+		"Proxies"
+		{
+		}
+	}
+}

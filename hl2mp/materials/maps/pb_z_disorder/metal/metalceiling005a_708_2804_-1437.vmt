@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALCEILING005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_disorder/c708_2804_-1437"
+	}
+}

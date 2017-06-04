@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALROOF006A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_central_station_v1/c112_456_664"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR038C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_office_tower/c7791_10245_-7511"
+	}
+}

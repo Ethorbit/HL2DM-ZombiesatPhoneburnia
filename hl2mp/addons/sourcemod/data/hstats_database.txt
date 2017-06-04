@@ -1,0 +1,25 @@
+"UserStats"
+{
+	"STEAM_0:0:77919865"
+	{
+		"first_conn"		"1487309914"
+		"conn_time"		"1186"
+		"kills"		"0"
+		"death"		"0"
+		"suicides"		"0"
+		"points"		"1000"
+		"last_conn"		"1487310359"
+		"name"		"-Пβ- Ethorbit"
+	}
+	"STEAM_0:0:15989318"
+	{
+		"first_conn"		"1487310467"
+		"conn_time"		"48"
+		"kills"		"0"
+		"death"		"0"
+		"suicides"		"0"
+		"points"		"1000"
+		"last_conn"		"1487310467"
+		"name"		"dennisbrown03"
+	}
+}

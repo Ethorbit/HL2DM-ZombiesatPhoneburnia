@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_snowfall/nature/water_canals_city_0_-352_-128.vmt"
+	"insert"
+	{
+		"$waterdepth"		"18"
+	}
+}
