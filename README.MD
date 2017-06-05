@@ -1,10 +1,10 @@
 ![Hl2DM](http://checkoutmy.space/afaagames.com/hl2dm.png)
 
 ## Source code here:
-https://github.com/AfaaGames/HL2DM-ZombiesatPhoneburnia-SDK-Latest
+https://github.com/Ethorbit/HL2DM-ZombiesatPhoneburnia-SDK-Latest
 
 ## If you're using Linux, download the server.so, replace server.so in bin folder:
-https://www.dropbox.com/s/nkq75koifdn9p8z/server.so?dl=0
+https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 
 # Zombies @ Phoneburnia is made to be difficult, a cooperative zombie killing gamemode.
 * Zombies will endlessly respawn in a variety of amazing maps developed by Dr.Timothy, Moroes, Damas, Zlots and possibly others!
