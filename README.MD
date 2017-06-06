@@ -6,7 +6,7 @@ https://github.com/Ethorbit/HL2DM-ZombiesatPhoneburnia-SDK-Latest
 ## If you're using Linux, download the server.so, replace server.so in bin folder:
 https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 
-# Zombies @ Phoneburnia is made to be difficult, a cooperative zombie killing gamemode.
+# Zombies (@ Phoneburnia) is made to be difficult, a cooperative zombie killing gamemode.
 * Zombies will endlessly respawn in a variety of amazing maps developed by Dr.Timothy, Moroes, Damas, Zlotz and possibly others!
 * Every monster you kill will send you and your team a small amount of points.
 * Rebels and Combine are unable to kill each other, they must work together to clear the streets of dangerous zombies
