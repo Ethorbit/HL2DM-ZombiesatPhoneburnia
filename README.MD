@@ -7,7 +7,7 @@ https://github.com/Ethorbit/HL2DM-ZombiesatPhoneburnia-SDK-Latest
 https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 
 # Zombies @ Phoneburnia is made to be difficult, a cooperative zombie killing gamemode.
-* Zombies will endlessly respawn in a variety of amazing maps developed by Dr.Timothy, Moroes, Damas, Zlots and possibly others!
+* Zombies will endlessly respawn in a variety of amazing maps developed by Dr.Timothy, Moroes, Damas, Zlotz and possibly others!
 * Every monster you kill will send you and your team a small amount of points.
 * Rebels and Combine are unable to kill each other, they must work together to clear the streets of dangerous zombies
 * Monsters in this gamemode are: zombies, fastzombies, vortigaunts, headcrabs, fastheadcrabs, antlions and antlion guards.
