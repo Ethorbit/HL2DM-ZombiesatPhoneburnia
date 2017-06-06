@@ -3,7 +3,7 @@
 ## Source code here:
 https://github.com/Ethorbit/HL2DM-ZombiesatPhoneburnia-SDK-Latest
 
-## If you're using Linux, download the server.so, replace server.so in bin folder:
+## If you're using Linux, download the server.so, replace server.so in the bin folder:
 https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 
 # Zombies (@ Phoneburnia) is made to be difficult, a cooperative zombie killing gamemode.
