@@ -1,0 +1,28 @@
+L 06/09/2017 - 00:30:57: SourceMod log file session started (file "L20170609.log") (Version "1.8.0.5973")
+L 06/09/2017 - 00:30:57: -------- Mapchange to pb_z_high_school_m --------
+L 06/09/2017 - 00:30:57: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/09/2017 - 00:31:03: [randomcycle.smx] RandomCycle has chosen dm_raven_m for the nextmap.
+L 06/09/2017 - 11:48:55: SourceMod log file session started (file "L20170609.log") (Version "1.8.0.5973")
+L 06/09/2017 - 11:48:55: -------- Mapchange to pb_z_high_school_m --------
+L 06/09/2017 - 11:48:55: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/09/2017 - 11:49:02: [randomcycle.smx] RandomCycle has chosen pb_z_area51_m for the nextmap.
+L 06/09/2017 - 11:49:36: [basecommands.smx] "Console<0><Console><Console>" changed map to "dm_cave_m"
+L 06/09/2017 - 11:49:39: [SM] Changed map to "dm_cave_m"
+L 06/09/2017 - 11:49:39: -------- Mapchange to dm_cave_m --------
+L 06/09/2017 - 11:49:47: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 06/09/2017 - 12:46:40: [mapchooser.smx] Voting for next map has started.
+L 06/09/2017 - 12:49:51: [SM] Changed map to "dm_raven_m"
+L 06/09/2017 - 12:49:51: -------- Mapchange to dm_raven_m --------
+L 06/09/2017 - 12:49:56: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 06/09/2017 - 13:46:49: [mapchooser.smx] Voting for next map has started.
+L 06/09/2017 - 13:50:00: [SM] Changed map to "dm_central_station_v1_m"
+L 06/09/2017 - 13:50:02: -------- Mapchange to dm_central_station_v1_m --------
+L 06/09/2017 - 13:50:07: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 06/09/2017 - 14:32:02: SourceMod log file session started (file "L20170609.log") (Version "1.8.0.5973")
+L 06/09/2017 - 14:32:02: -------- Mapchange to pb_z_high_school_m --------
+L 06/09/2017 - 14:32:02: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/09/2017 - 14:32:08: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 06/09/2017 - 14:39:00: SourceMod log file session started (file "L20170609.log") (Version "1.8.0.5973")
+L 06/09/2017 - 14:39:00: -------- Mapchange to pb_z_high_school_m --------
+L 06/09/2017 - 14:39:01: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/09/2017 - 14:39:08: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.

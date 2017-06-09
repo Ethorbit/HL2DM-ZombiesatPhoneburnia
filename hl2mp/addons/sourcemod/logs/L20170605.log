@@ -1,0 +1,248 @@
+L 06/05/2017 - 00:08:32: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 00:08:32: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 00:24:33: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 00:24:53: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_thetunnel_v1_m.
+L 06/05/2017 - 00:27:44: [SM] Changed map to "dm_thetunnel_v1_m"
+L 06/05/2017 - 00:27:45: -------- Mapchange to dm_thetunnel_v1_m --------
+L 06/05/2017 - 00:27:50: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 06/05/2017 - 00:28:51: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 00:28:51: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 00:28:52: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/05/2017 - 00:28:58: [randomcycle.smx] RandomCycle has chosen dm_thetunnel_v1_m for the nextmap.
+L 06/05/2017 - 01:14:06: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 01:14:06: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 01:14:27: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_montana_m.
+L 06/05/2017 - 01:14:29: [SM] Changed map to "dm_montana_m"
+L 06/05/2017 - 01:14:32: -------- Mapchange to dm_montana_m --------
+L 06/05/2017 - 01:14:38: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_m for the nextmap.
+L 06/05/2017 - 01:24:28: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 01:24:28: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 01:24:33: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_october_m.
+L 06/05/2017 - 01:24:35: [SM] Changed map to "dm_october_m"
+L 06/05/2017 - 01:24:36: -------- Mapchange to dm_october_m --------
+L 06/05/2017 - 01:24:42: [randomcycle.smx] RandomCycle has chosen dm_montana_m for the nextmap.
+L 06/05/2017 - 02:21:35: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 02:24:46: [SM] Changed map to "dm_thetunnel_v1_m"
+L 06/05/2017 - 02:24:46: -------- Mapchange to dm_thetunnel_v1_m --------
+L 06/05/2017 - 02:24:51: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 06/05/2017 - 03:21:44: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 03:24:55: [SM] Changed map to "pb_z_industry_m"
+L 06/05/2017 - 03:24:56: -------- Mapchange to pb_z_industry_m --------
+L 06/05/2017 - 03:25:01: [randomcycle.smx] RandomCycle has chosen dm_raven_m for the nextmap.
+L 06/05/2017 - 04:21:55: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 04:25:06: [SM] Changed map to "dm_hellsdistrict_m"
+L 06/05/2017 - 04:25:07: -------- Mapchange to dm_hellsdistrict_m --------
+L 06/05/2017 - 04:25:12: [randomcycle.smx] RandomCycle has chosen dm_snowfall_m for the nextmap.
+L 06/05/2017 - 05:10:43: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 05:21:54: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 05:21:54: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 05:22:04: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_area51_m.
+L 06/05/2017 - 05:22:06: [SM] Changed map to "pb_z_area51_m"
+L 06/05/2017 - 05:22:08: -------- Mapchange to pb_z_area51_m --------
+L 06/05/2017 - 05:22:14: [randomcycle.smx] RandomCycle has chosen pb_z_earthquake_m for the nextmap.
+L 06/05/2017 - 06:00:08: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 06:00:08: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 06:00:14: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_disorder_m.
+L 06/05/2017 - 06:00:16: [SM] Changed map to "pb_z_disorder_m"
+L 06/05/2017 - 06:00:24: -------- Mapchange to pb_z_disorder_m --------
+L 06/05/2017 - 06:00:45: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_m for the nextmap.
+L 06/05/2017 - 06:02:09: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 06:02:09: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 06:02:30: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_high_school_m.
+L 06/05/2017 - 06:02:32: [SM] Changed map to "pb_z_high_school_m"
+L 06/05/2017 - 06:02:35: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 06:02:41: [randomcycle.smx] RandomCycle has chosen dm_montana_m for the nextmap.
+L 06/05/2017 - 06:03:49: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 06:03:49: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 06:03:53: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_colony_m.
+L 06/05/2017 - 06:03:55: [SM] Changed map to "pb_z_colony_m"
+L 06/05/2017 - 06:04:01: -------- Mapchange to pb_z_colony_m --------
+L 06/05/2017 - 06:04:07: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 06/05/2017 - 06:14:21: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 06:14:21: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 06:36:15: [rockthevote.smx] RTV changing map manually
+L 06/05/2017 - 06:36:15: [SM] Changed map to "dm_snowfall_m"
+L 06/05/2017 - 06:36:27: -------- Mapchange to dm_snowfall_m --------
+L 06/05/2017 - 06:36:49: [randomcycle.smx] RandomCycle has chosen dm_cave_m for the nextmap.
+L 06/05/2017 - 06:40:01: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 06:40:01: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 06:40:05: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_october_m.
+L 06/05/2017 - 06:40:07: [SM] Changed map to "dm_october_m"
+L 06/05/2017 - 06:40:09: -------- Mapchange to dm_october_m --------
+L 06/05/2017 - 06:40:16: [randomcycle.smx] RandomCycle has chosen dm_snowfall_m for the nextmap.
+L 06/05/2017 - 07:15:19: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 07:37:09: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 07:40:20: [SM] Changed map to "dm_montana_m"
+L 06/05/2017 - 07:40:23: -------- Mapchange to dm_montana_m --------
+L 06/05/2017 - 07:40:29: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_m for the nextmap.
+L 06/05/2017 - 07:46:19: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 07:46:19: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 07:46:32: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_office_tower_v2_m.
+L 06/05/2017 - 07:46:34: [SM] Changed map to "pb_z_office_tower_v2_m"
+L 06/05/2017 - 07:46:39: -------- Mapchange to pb_z_office_tower_v2_m --------
+L 06/05/2017 - 07:46:44: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_v2_m for the nextmap.
+L 06/05/2017 - 07:48:47: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 07:56:30: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 07:56:30: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 07:56:39: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_underground_m.
+L 06/05/2017 - 07:56:41: [SM] Changed map to "pb_z_underground_m"
+L 06/05/2017 - 07:56:42: -------- Mapchange to pb_z_underground_m --------
+L 06/05/2017 - 07:56:47: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_m for the nextmap.
+L 06/05/2017 - 08:13:11: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 08:13:11: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 08:13:16: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_coldruins_rc1_m.
+L 06/05/2017 - 08:13:18: [SM] Changed map to "dm_coldruins_rc1_m"
+L 06/05/2017 - 08:13:21: -------- Mapchange to dm_coldruins_rc1_m --------
+L 06/05/2017 - 08:13:26: [randomcycle.smx] RandomCycle has chosen pb_z_earthquake_m for the nextmap.
+L 06/05/2017 - 08:15:48: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 08:27:42: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 08:27:42: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 08:27:55: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_area51_m.
+L 06/05/2017 - 08:27:57: [SM] Changed map to "pb_z_area51_m"
+L 06/05/2017 - 08:27:59: -------- Mapchange to pb_z_area51_m --------
+L 06/05/2017 - 08:28:04: [randomcycle.smx] RandomCycle has chosen dm_central_station_v1_m for the nextmap.
+L 06/05/2017 - 09:10:20: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 09:10:20: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 09:10:29: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 06/05/2017 - 09:11:19: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 09:24:58: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 09:25:19: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_earthquake_m.
+L 06/05/2017 - 09:28:08: [SM] Changed map to "pb_z_earthquake_m"
+L 06/05/2017 - 09:28:10: -------- Mapchange to pb_z_earthquake_m --------
+L 06/05/2017 - 09:28:15: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 06/05/2017 - 10:25:08: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 10:28:19: [SM] Changed map to "dm_october_m"
+L 06/05/2017 - 10:28:19: -------- Mapchange to dm_october_m --------
+L 06/05/2017 - 10:28:25: [randomcycle.smx] RandomCycle has chosen dm_snowfall_m for the nextmap.
+L 06/05/2017 - 10:51:49: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 10:51:49: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 11:28:29: [SM] Changed map to "pb_z_disorder_m"
+L 06/05/2017 - 11:28:31: -------- Mapchange to pb_z_disorder_m --------
+L 06/05/2017 - 11:28:36: [randomcycle.smx] RandomCycle has chosen pb_z_high_school_m for the nextmap.
+L 06/05/2017 - 12:25:29: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 12:28:40: [SM] Changed map to "dm_laststop_m"
+L 06/05/2017 - 12:28:42: -------- Mapchange to dm_laststop_m --------
+L 06/05/2017 - 12:28:47: [randomcycle.smx] RandomCycle has chosen dm_montana_m for the nextmap.
+L 06/05/2017 - 12:41:36: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 12:41:36: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 12:41:41: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_high_school_m.
+L 06/05/2017 - 12:41:43: [SM] Changed map to "pb_z_high_school_m"
+L 06/05/2017 - 12:41:45: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 12:41:51: [randomcycle.smx] RandomCycle has chosen dm_thetunnel_v1_m for the nextmap.
+L 06/05/2017 - 12:44:18: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 12:47:19: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 13:17:52: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 13:37:25: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 13:37:25: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 13:37:30: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner
+L 06/05/2017 - 13:38:44: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 13:41:55: [SM] Changed map to "pb_z_colony_m"
+L 06/05/2017 - 13:41:59: -------- Mapchange to pb_z_colony_m --------
+L 06/05/2017 - 13:42:04: [randomcycle.smx] RandomCycle has chosen dm_raven_m for the nextmap.
+L 06/05/2017 - 13:46:34: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 14:37:07: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 14:37:07: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 14:37:27: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_montana_m.
+L 06/05/2017 - 14:37:30: [SM] Changed map to "dm_montana_m"
+L 06/05/2017 - 14:37:30: -------- Mapchange to dm_montana_m --------
+L 06/05/2017 - 14:37:35: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_m for the nextmap.
+L 06/05/2017 - 14:53:09: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 14:53:09: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 14:53:10: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/05/2017 - 14:53:17: [randomcycle.smx] RandomCycle has chosen pb_z_industry_m for the nextmap.
+L 06/05/2017 - 15:01:17: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 15:01:17: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 15:01:17: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/05/2017 - 15:01:22: [randomcycle.smx] RandomCycle has chosen pb_z_earthquake_m for the nextmap.
+L 06/05/2017 - 15:03:15: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 15:03:15: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 15:03:15: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/05/2017 - 15:03:21: [randomcycle.smx] RandomCycle has chosen pb_z_colony_m for the nextmap.
+L 06/05/2017 - 15:06:48: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 15:06:53: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 06/05/2017 - 15:14:10: SourceMod log file session started (file "L20170605.log") (Version "1.8.0.5973")
+L 06/05/2017 - 15:14:10: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 15:14:10: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/05/2017 - 15:14:16: [randomcycle.smx] RandomCycle has chosen pb_z_underground_m for the nextmap.
+L 06/05/2017 - 16:03:01: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 16:11:10: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 16:11:21: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_october_m.
+L 06/05/2017 - 16:14:21: [SM] Changed map to "dm_october_m"
+L 06/05/2017 - 16:14:21: -------- Mapchange to dm_october_m --------
+L 06/05/2017 - 16:14:26: [randomcycle.smx] RandomCycle has chosen pb_z_area51_m for the nextmap.
+L 06/05/2017 - 17:11:19: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 17:14:30: [SM] Changed map to "pb_z_disorder_m"
+L 06/05/2017 - 17:14:31: -------- Mapchange to pb_z_disorder_m --------
+L 06/05/2017 - 17:14:36: [randomcycle.smx] RandomCycle has chosen dm_october_m for the nextmap.
+L 06/05/2017 - 17:30:41: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 17:30:41: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 17:36:54: [rockthevote.smx] RTV changing map manually
+L 06/05/2017 - 17:36:54: [SM] Changed map to "pb_z_office_tower_m"
+L 06/05/2017 - 17:36:56: -------- Mapchange to pb_z_office_tower_m --------
+L 06/05/2017 - 17:37:01: [randomcycle.smx] RandomCycle has chosen pb_z_high_school_m for the nextmap.
+L 06/05/2017 - 17:39:32: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 17:39:32: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 17:39:47: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_central_station_v1_m.
+L 06/05/2017 - 17:39:49: [SM] Changed map to "dm_central_station_v1_m"
+L 06/05/2017 - 17:39:51: -------- Mapchange to dm_central_station_v1_m --------
+L 06/05/2017 - 17:39:56: [randomcycle.smx] RandomCycle has chosen pb_z_disorder_m for the nextmap.
+L 06/05/2017 - 17:42:22: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 17:54:49: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 17:54:49: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 17:54:57: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_laststop_m.
+L 06/05/2017 - 17:54:59: [SM] Changed map to "dm_laststop_m"
+L 06/05/2017 - 17:54:59: -------- Mapchange to dm_laststop_m --------
+L 06/05/2017 - 17:55:05: [randomcycle.smx] RandomCycle has chosen dm_raven_m for the nextmap.
+L 06/05/2017 - 17:56:37: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 18:07:37: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 18:07:37: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 18:20:58: [rockthevote.smx] RTV changing map manually
+L 06/05/2017 - 18:20:58: [SM] Changed map to "pb_z_colony_m"
+L 06/05/2017 - 18:20:58: -------- Mapchange to pb_z_colony_m --------
+L 06/05/2017 - 18:21:04: [randomcycle.smx] RandomCycle has chosen dm_morbid_m for the nextmap.
+L 06/05/2017 - 18:35:14: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 18:35:14: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 18:35:20: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_earthquake_m.
+L 06/05/2017 - 18:35:22: [SM] Changed map to "pb_z_earthquake_m"
+L 06/05/2017 - 18:35:22: -------- Mapchange to pb_z_earthquake_m --------
+L 06/05/2017 - 18:35:28: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_v2_m for the nextmap.
+L 06/05/2017 - 18:36:52: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 18:48:20: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 19:32:21: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 19:35:32: [SM] Changed map to "pb_z_high_school_m"
+L 06/05/2017 - 19:35:32: -------- Mapchange to pb_z_high_school_m --------
+L 06/05/2017 - 19:35:37: [randomcycle.smx] RandomCycle has chosen pb_z_area51_m for the nextmap.
+L 06/05/2017 - 19:44:03: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 20:15:10: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 20:22:05: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 20:26:15: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/05/2017 - 20:32:31: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 20:35:42: [SM] Changed map to "pb_z_office_tower_v2_m"
+L 06/05/2017 - 20:35:42: -------- Mapchange to pb_z_office_tower_v2_m --------
+L 06/05/2017 - 20:35:47: [randomcycle.smx] RandomCycle has chosen dm_central_station_v1_m for the nextmap.
+L 06/05/2017 - 21:32:41: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 21:35:52: [SM] Changed map to "dm_morbid_m"
+L 06/05/2017 - 21:35:53: -------- Mapchange to dm_morbid_m --------
+L 06/05/2017 - 21:35:58: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_m for the nextmap.
+L 06/05/2017 - 21:57:38: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 21:57:38: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 21:57:58: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_raven_m.
+L 06/05/2017 - 21:58:00: [SM] Changed map to "dm_raven_m"
+L 06/05/2017 - 21:58:01: -------- Mapchange to dm_raven_m --------
+L 06/05/2017 - 21:58:07: [randomcycle.smx] RandomCycle has chosen pb_z_industry_m for the nextmap.
+L 06/05/2017 - 22:07:31: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 22:07:31: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 22:07:52: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_october_m.
+L 06/05/2017 - 22:07:54: [SM] Changed map to "dm_october_m"
+L 06/05/2017 - 22:07:55: -------- Mapchange to dm_october_m --------
+L 06/05/2017 - 22:08:01: [randomcycle.smx] RandomCycle has chosen dm_cave_m for the nextmap.
+L 06/05/2017 - 22:18:04: [mapchooser.smx] Starting map vote because outside request
+L 06/05/2017 - 22:18:04: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 22:18:25: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_industry_m.
+L 06/05/2017 - 22:18:27: [SM] Changed map to "pb_z_industry_m"
+L 06/05/2017 - 22:18:28: -------- Mapchange to pb_z_industry_m --------
+L 06/05/2017 - 22:18:33: [randomcycle.smx] RandomCycle has chosen pb_z_colony_m for the nextmap.
+L 06/05/2017 - 23:15:26: [mapchooser.smx] Voting for next map has started.
+L 06/05/2017 - 23:18:37: [SM] Changed map to "dm_central_station_v1_m"
+L 06/05/2017 - 23:18:38: -------- Mapchange to dm_central_station_v1_m --------
+L 06/05/2017 - 23:18:44: [randomcycle.smx] RandomCycle has chosen dm_snowfall_m for the nextmap.

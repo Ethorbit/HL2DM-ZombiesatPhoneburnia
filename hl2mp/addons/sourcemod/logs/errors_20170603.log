@@ -751,3 +751,10 @@ L 06/03/2017 - 23:29:12: [SM]   [0] GetEntPropString
 L 06/03/2017 - 23:29:12: [SM]   [1] Line 1421, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
 L 06/03/2017 - 23:29:12: [SM]   [2] Line 1271, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
 L 06/03/2017 - 23:29:12: [SM]   [3] Line 26, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/03/2017 - 23:57:28: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/03/2017 - 23:57:28: [SM] Blaming: autodifficultypatch.smx
+L 06/03/2017 - 23:57:28: [SM] Call stack trace:
+L 06/03/2017 - 23:57:28: [SM]   [0] GetEntPropString
+L 06/03/2017 - 23:57:28: [SM]   [1] Line 1421, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/03/2017 - 23:57:28: [SM]   [2] Line 1271, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/03/2017 - 23:57:28: [SM]   [3] Line 26, C:\Users\EthorbitV2\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
