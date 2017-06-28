@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_TILEWALL005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_pinnacles/c-257_617_-215"
+	}
+}

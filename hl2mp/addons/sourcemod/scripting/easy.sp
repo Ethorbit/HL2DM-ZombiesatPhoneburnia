@@ -44,8 +44,926 @@ void UpdateHeadcrab() {
     int nClients = GetTeamClientCount(2) + GetTeamClientCount(3);
     char mapname[128];
     GetCurrentMap(mapname, sizeof(mapname));
-
-	 if (strncmp(mapname, "dm_october_m", 12) == 0)
+// All maps are supported by this system, if there's map without it, refer to the sourcemod backups I made. 
+ if (strncmp(mapname, "dm_mine_entrance_m", 18) == 0)
+    {
+	
+	int entity = -1;
+	
+	/* Delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "headcrab1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast3killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast4killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast5killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast7killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast8killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast9killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast10killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast11killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast12killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast13killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast14killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast15killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast17killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie10killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie12killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie14killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie18killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion3killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion4killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+		
+		/* Dont delete enemies below */ 
+		
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast16killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie9killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie11killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie13killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie15killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie16killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie17killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie19killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie20killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+		
+		/* Enable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "tunnelfrequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+		
+		/* Disable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "tunnelfrequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "tunnelfrequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "tunnelfrequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	}
+	
+	if (strncmp(mapname, "dm_morbid_h", 11) == 0)
+    {
+	int entity = -1;
+	 
+		/* Delete enemies below */ 
+		
+	 	while ((entity = FindEntityByTargetName(entity, "vortigaunt1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "antlion1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie12killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie17killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie18killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie10killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie20killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie22killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie24killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast5killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast7killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast8killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast9killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast10killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast11killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		}
+		
+		/* Dont delete enemies below */ 
+		
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "headcrab_fast12killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "zombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie9killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie10killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie11killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+		while ((entity = FindEntityByTargetName(entity, "fastzombie24killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+		}
+	}
+	
+	 if (strncmp(mapname, "pb_z_richland_h", 15) == 0)
+    {
+	int entity = -1;
+	
+	/* Delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "antlion1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlionguard1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+		
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie30killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie32killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie34killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }			
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie35killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+		
+		/* Dont delete enemies below */ 
+	
+		
+		/* Enable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone05frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone06frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone07frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone08frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone09frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone10frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone11frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone12frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone13frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone14frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }			
+		
+		/* Disable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone05frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone05frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone05frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone06frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone06frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone06frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone07frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone07frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone07frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone08frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone08frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone08frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone09frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone09frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone09frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone10frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone10frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone10frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone11frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone11frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone11frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone12frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone12frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone12frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone13frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone13frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone13frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone14frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone14frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone14frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	}	
+	
+	 if (strncmp(mapname, "pb_z_hometown1999_h", 19) == 0)
+    {
+	int entity = -1;
+	
+	/* Delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "antlion1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "antlion3killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie21killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie12killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie26killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast2killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+		
+		/* Dont delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "zombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie9killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie10killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie11killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie13killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie14killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie15killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie16killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie17killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie18killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie19killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie20killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie21killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie22killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie23killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie24killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie25killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie26killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie27killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie28killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie29killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "zombie30killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie9killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie10killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie11killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie12killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie13killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie14killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie15killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie16killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie17killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie18killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie19killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie20killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie22killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie23killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie24killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie25killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie26killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+		
+		/* Enable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+		
+		/* Disable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone04frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	}	
+	
+	 if (strncmp(mapname, "z_ravenhell_h", 13) == 0)
+    {
+	int entity = -1;
+	
+	/* Delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "vortigaunt1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast1killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast3killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast4killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast5killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast6killer")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+		
+		/* Dont delete enemies below */ 
+	
+	 while ((entity = FindEntityByTargetName(entity, "headcrab1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "headcrab_fast2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "zombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }		
+	 while ((entity = FindEntityByTargetName(entity, "zombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "zombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "zombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "zombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }			
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie1killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }	
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie2killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie3killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie4killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie5killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie6killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie7killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	 while ((entity = FindEntityByTargetName(entity, "fastzombie8killer")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+		
+		/* Enable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHighest")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }	
+		
+		/* Disable frequencies */ 
+		
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone01frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone02frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyHigh")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyMedium")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+			 while ((entity = FindEntityByTargetName(entity, "campzone03frequencyLow")) != -1) {
+            AcceptEntityInput(entity, "Disable");
+        }
+	}	
+	
+	 if (strncmp(mapname, "dm_october_h", 12) == 0)
     {
 	int entity = -1;
 	
@@ -101,7 +1019,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "dm_pinnacles_m", 14) == 0)
+	 if (strncmp(mapname, "dm_pinnacles_h", 14) == 0)
     {
 	int entity = -1;
 	
@@ -355,7 +1273,7 @@ void UpdateHeadcrab() {
         }	
 	}	
 	
-	 if (strncmp(mapname, "dm_thetunnel_v1_m", 17) == 0)
+	 if (strncmp(mapname, "dm_thetunnel_v1_h", 17) == 0)
     {
 	int entity = -1;
 	
@@ -453,7 +1371,7 @@ void UpdateHeadcrab() {
         }	
 	}	
 	
-	 if (strncmp(mapname, "dm_central_station_v1_m", 23) == 0)
+	 if (strncmp(mapname, "dm_central_station_v1_h", 23) == 0)
     {
 	int entity = -1;
 	
@@ -666,7 +1584,7 @@ void UpdateHeadcrab() {
         }	
 	}	
 	
-			 if (strncmp(mapname, "dm_snowfall_m", 13) == 0)
+			 if (strncmp(mapname, "dm_snowfall_h", 13) == 0)
     {
 	int entity = -1;
 	
@@ -746,7 +1664,7 @@ void UpdateHeadcrab() {
         }		
 	}	
 	
-		 if (strncmp(mapname, "pb_z_office_tower_m", 19) == 0)
+		 if (strncmp(mapname, "pb_z_office_tower_h", 19) == 0)
     {
 	int entity = -1;
 	
@@ -1069,7 +1987,7 @@ void UpdateHeadcrab() {
         }		
 	}	
 	
-		 if (strncmp(mapname, "dm_montana_m", 12) == 0)
+		 if (strncmp(mapname, "dm_hontana_h", 12) == 0)
     {
 	int entity = -1;
 	
@@ -1225,7 +2143,7 @@ void UpdateHeadcrab() {
         }			
 	}	
 	
-		 if (strncmp(mapname, "pb_z_office_tower_v2_m", 22) == 0)
+		 if (strncmp(mapname, "pb_z_office_tower_v2_h", 22) == 0)
     {
 	int entity = -1;
 	
@@ -1498,7 +2416,7 @@ void UpdateHeadcrab() {
         }		
 	}	
 	
-		 if (strncmp(mapname, "pb_z_colony_m", 13) == 0)
+		 if (strncmp(mapname, "pb_z_colony_h", 13) == 0)
     {
 	
 	int entity = -1;
@@ -1918,7 +2836,7 @@ void UpdateHeadcrab() {
         }	
 	}	
 	
-		 if (strncmp(mapname, "pb_z_disorder_m", 15) == 0)
+		 if (strncmp(mapname, "pb_z_disorder_h", 15) == 0)
     {
 	
 	int entity = -1;
@@ -2098,7 +3016,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-		 if (strncmp(mapname, "pb_z_underground_m", 18) == 0)
+		 if (strncmp(mapname, "pb_z_underground_h", 18) == 0)
     {
 	
 	int entity = -1;
@@ -2257,7 +3175,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "dm_cave_m", 9) == 0)
+	 if (strncmp(mapname, "dm_cave_h", 9) == 0)
     {
 	
 	int entity = -1;
@@ -2398,7 +3316,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "dm_coldruins_rc1_m", 18) == 0)
+	 if (strncmp(mapname, "dm_coldruins_rc1_h", 18) == 0)
     {
 	
 	int entity = -1;
@@ -2516,7 +3434,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "pb_z_industry_m", 15) == 0)
+	 if (strncmp(mapname, "pb_z_industry_h", 15) == 0)
     {
 	
 	int entity = -1;
@@ -2655,7 +3573,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "pb_z_earthquake_m", 17) == 0)
+	 if (strncmp(mapname, "pb_z_earthquake_h", 17) == 0)
     {
 	
 	int entity = -1;
@@ -2928,7 +3846,7 @@ void UpdateHeadcrab() {
         }
 	}	
 	
-	 if (strncmp(mapname, "dm_laststop_m", 13) == 0)
+	 if (strncmp(mapname, "dm_laststop_h", 13) == 0)
     {
 	
 	int entity = -1;
@@ -3120,7 +4038,7 @@ void UpdateHeadcrab() {
         }
 	}
 	
- if (strncmp(mapname, "dm_mine_entrance_m", 18) == 0)
+ if (strncmp(mapname, "dm_hine_entrance_h", 18) == 0)
     {
 	
 	int entity = -1;
@@ -3319,7 +4237,7 @@ void UpdateHeadcrab() {
 	}
 	
 	
-	 if (strncmp(mapname, "dm_raven_m", 10) == 0)
+	 if (strncmp(mapname, "dm_raven_h", 10) == 0)
     {
 	
 	int entity = -1;
@@ -3553,7 +4471,7 @@ void UpdateHeadcrab() {
         }
 	}
 	
-	 if (strncmp(mapname, "pb_z_high_school_m", 18) == 0)
+	 if (strncmp(mapname, "pb_z_high_school_h", 18) == 0)
     {
 	
 	int entity = -1;
@@ -3727,7 +4645,7 @@ void UpdateHeadcrab() {
         }
 	}
 	
-	if (strncmp(mapname, "pb_z_area51_m", 13) == 0)
+	if (strncmp(mapname, "pb_z_area51_h", 13) == 0)
     {
 	int entity = -1;
 	 
@@ -3941,7 +4859,7 @@ void UpdateHeadcrab() {
 		/* Instantly spawn these monsters below */ 
 	}
 	
-	if (strncmp(mapname, "dm_morbid_m", 11) == 0)
+	if (strncmp(mapname, "dm_horbid_h", 11) == 0)
     {
 	int entity = -1;
 	 

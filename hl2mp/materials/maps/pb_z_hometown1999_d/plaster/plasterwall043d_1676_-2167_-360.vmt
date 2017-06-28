@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL043D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_hometown1999_d/c1676_-2167_-360"
+	}
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEWALL007E.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hometown1999/c58_1141_322"
+	}
+}

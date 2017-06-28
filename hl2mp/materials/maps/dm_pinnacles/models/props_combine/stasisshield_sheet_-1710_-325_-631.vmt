@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/MODELS/PROPS_COMBINE/STASISSHIELD_SHEET.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_pinnacles/c-1710_-325_-631"
+		"Proxies"
+		{
+		}
+	}
+}

@@ -258,7 +258,43 @@ public void OnClientSayCommand_Post(int client, const char[] command, const char
 	{
 		ShowTimeLeft(client, TIMELEFT_ALL_MAYBE);
 	}
+	else if (strcmp(sArgs, "!timeleft", false) == 0)
+	{
+		ShowTimeLeft(client, TIMELEFT_ALL_MAYBE);
+	}
+	else if (strcmp(sArgs, "/timeleft", false) == 0)
+	{
+		ShowTimeLeft(client, TIMELEFT_ALL_MAYBE);
+	}
 	else if (strcmp(sArgs, "thetime", false) == 0)
+	{
+		char ctime[64];
+		FormatTime(ctime, 64, NULL_STRING);
+		
+		if (g_Cvar_TriggerShow.IntValue)
+		{
+			PrintToChatAll("[SM] %t", "Thetime", ctime);
+		}
+		else
+		{
+			PrintToChat(client,"[SM] %t", "Thetime", ctime);
+		}
+	}
+	else if (strcmp(sArgs, "!thetime", false) == 0)
+	{
+		char ctime[64];
+		FormatTime(ctime, 64, NULL_STRING);
+		
+		if (g_Cvar_TriggerShow.IntValue)
+		{
+			PrintToChatAll("[SM] %t", "Thetime", ctime);
+		}
+		else
+		{
+			PrintToChat(client,"[SM] %t", "Thetime", ctime);
+		}
+	}
+	else if (strcmp(sArgs, "/thetime", false) == 0)
 	{
 		char ctime[64];
 		FormatTime(ctime, 64, NULL_STRING);

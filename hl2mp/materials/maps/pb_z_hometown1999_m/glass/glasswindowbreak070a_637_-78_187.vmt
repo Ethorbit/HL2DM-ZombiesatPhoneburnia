@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_hometown1999_m/c637_-78_187"
+		"$crackmaterial"		"maps/pb_z_hometown1999_m/glass/glasswindowbreak070b_637_-78_187"
+	}
+}

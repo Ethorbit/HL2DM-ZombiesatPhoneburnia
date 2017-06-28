@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STOREFRONT_TEMPLATE/STOREFRONT_TEMPLATE001C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/pb_z_hometown1999_m/c-574_-273_-47"
+	}
+}

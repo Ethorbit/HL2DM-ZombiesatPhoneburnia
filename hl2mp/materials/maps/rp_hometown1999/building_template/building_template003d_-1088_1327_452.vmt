@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BUILDING_TEMPLATE/BUILDING_TEMPLATE003D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hometown1999/c-1088_1327_452"
+	}
+}

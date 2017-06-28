@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_pinnacles/nature/water_canals_cheap001_-2111_608_-351.vmt"
+	"insert"
+	{
+		"$waterdepth"		"24"
+	}
+}

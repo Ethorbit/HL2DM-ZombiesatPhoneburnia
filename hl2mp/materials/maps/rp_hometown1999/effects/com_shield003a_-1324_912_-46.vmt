@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/EFFECTS/COM_SHIELD003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hometown1999/c-1324_912_-46"
+		"Proxies"
+		{
+		}
+	}
+}

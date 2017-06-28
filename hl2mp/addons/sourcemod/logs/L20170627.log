@@ -1,0 +1,146 @@
+L 06/27/2017 - 00:03:34: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 00:03:34: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 00:06:45: [SM] Changed map to "dm_laststop_h"
+L 06/27/2017 - 00:06:47: -------- Mapchange to dm_laststop_h --------
+L 06/27/2017 - 00:06:48: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 00:06:52: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_h for the nextmap.
+L 06/27/2017 - 00:15:53: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 00:15:53: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 00:15:53: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 00:15:53: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 00:15:54: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 00:15:59: [randomcycle.smx] RandomCycle has chosen dm_thetunnel_v1_h for the nextmap.
+L 06/27/2017 - 00:16:00: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 00:16:00: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 00:16:05: [randomcycle.smx] RandomCycle has chosen pb_z_underground_h for the nextmap.
+L 06/27/2017 - 01:31:41: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 01:34:52: [SM] Changed map to "dm_hometown1999_h"
+L 06/27/2017 - 01:34:53: -------- Mapchange to dm_hometown1999_h --------
+L 06/27/2017 - 01:34:58: [randomcycle.smx] RandomCycle has chosen dm_hometown1999_h for the nextmap.
+L 06/27/2017 - 02:04:10: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 02:31:52: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 02:35:03: [SM] Changed map to "dm_laststop_h"
+L 06/27/2017 - 02:35:04: -------- Mapchange to dm_laststop_h --------
+L 06/27/2017 - 02:35:09: [randomcycle.smx] RandomCycle has chosen pb_z_disorder_h for the nextmap.
+L 06/27/2017 - 03:32:02: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 03:35:13: [SM] Changed map to "pb_z_disorder_h"
+L 06/27/2017 - 03:35:14: -------- Mapchange to pb_z_disorder_h --------
+L 06/27/2017 - 03:35:19: [randomcycle.smx] RandomCycle has chosen dm_mine_entrance_h for the nextmap.
+L 06/27/2017 - 04:24:20: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 04:24:20: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 04:24:24: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_area51_h.
+L 06/27/2017 - 04:24:26: [SM] Changed map to "pb_z_area51_h"
+L 06/27/2017 - 04:24:27: -------- Mapchange to pb_z_area51_h --------
+L 06/27/2017 - 04:24:32: [randomcycle.smx] RandomCycle has chosen pb_z_colony_h for the nextmap.
+L 06/27/2017 - 04:29:31: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 04:56:20: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 05:18:52: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 05:21:25: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 05:24:04: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 05:24:36: [SM] Changed map to "dm_raven_h"
+L 06/27/2017 - 05:24:37: -------- Mapchange to dm_raven_h --------
+L 06/27/2017 - 05:24:43: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 05:24:43: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 05:24:43: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 05:24:43: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 05:24:49: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_v2_h for the nextmap.
+L 06/27/2017 - 05:24:50: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 05:24:55: [randomcycle.smx] RandomCycle has chosen pb_z_industry_h for the nextmap.
+L 06/27/2017 - 05:25:52: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 06:22:34: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 06:25:45: [SM] Changed map to "pb_z_underground_h"
+L 06/27/2017 - 06:25:46: -------- Mapchange to pb_z_underground_h --------
+L 06/27/2017 - 06:25:56: [randomcycle.smx] RandomCycle has chosen dm_thetunnel_v1_h for the nextmap.
+L 06/27/2017 - 07:22:49: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 07:26:00: [SM] Changed map to "pb_z_earthquake_h"
+L 06/27/2017 - 07:26:02: -------- Mapchange to pb_z_earthquake_h --------
+L 06/27/2017 - 07:26:07: [randomcycle.smx] RandomCycle has chosen dm_morbid_h for the nextmap.
+L 06/27/2017 - 08:23:01: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 08:26:12: [SM] Changed map to "pb_z_office_tower_v2_h"
+L 06/27/2017 - 08:26:16: -------- Mapchange to pb_z_office_tower_v2_h --------
+L 06/27/2017 - 08:26:22: [randomcycle.smx] RandomCycle has chosen dm_montana_h for the nextmap.
+L 06/27/2017 - 08:41:01: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 09:19:28: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 09:19:28: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 09:19:34: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_hellsdistrict_h.
+L 06/27/2017 - 09:19:36: [SM] Changed map to "dm_hellsdistrict_h"
+L 06/27/2017 - 09:19:39: -------- Mapchange to dm_hellsdistrict_h --------
+L 06/27/2017 - 09:19:44: [randomcycle.smx] RandomCycle has chosen z_ravenhell_h for the nextmap.
+L 06/27/2017 - 09:22:22: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 09:22:22: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 09:22:28: [mapchooser.smx] Voting for next map has finished. Nextmap: pb_z_colony_h.
+L 06/27/2017 - 09:22:30: [SM] Changed map to "pb_z_colony_h"
+L 06/27/2017 - 09:22:32: -------- Mapchange to pb_z_colony_h --------
+L 06/27/2017 - 09:22:37: [randomcycle.smx] RandomCycle has chosen dm_central_station_v1_h for the nextmap.
+L 06/27/2017 - 10:19:31: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 10:22:41: [SM] Changed map to "dm_october_h"
+L 06/27/2017 - 10:22:43: -------- Mapchange to dm_october_h --------
+L 06/27/2017 - 10:22:49: [randomcycle.smx] RandomCycle has chosen pb_z_underground_h for the nextmap.
+L 06/27/2017 - 11:19:42: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 11:22:53: [SM] Changed map to "pb_z_industry_h"
+L 06/27/2017 - 11:22:54: -------- Mapchange to pb_z_industry_h --------
+L 06/27/2017 - 11:23:00: [randomcycle.smx] RandomCycle has chosen dm_mine_entrance_h for the nextmap.
+L 06/27/2017 - 11:27:32: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 11:27:32: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 11:27:38: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_central_station_v1_h.
+L 06/27/2017 - 11:27:40: [SM] Changed map to "dm_central_station_v1_h"
+L 06/27/2017 - 11:27:42: -------- Mapchange to dm_central_station_v1_h --------
+L 06/27/2017 - 11:27:48: [randomcycle.smx] RandomCycle has chosen pb_z_area51_h for the nextmap.
+L 06/27/2017 - 12:24:41: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 12:25:14: [rockthevote.smx] RTV changing map manually
+L 06/27/2017 - 12:25:14: [SM] Changed map to "pb_z_earthquake_h"
+L 06/27/2017 - 12:25:15: -------- Mapchange to pb_z_earthquake_h --------
+L 06/27/2017 - 12:25:20: [randomcycle.smx] RandomCycle has chosen dm_snowfall_h for the nextmap.
+L 06/27/2017 - 12:26:35: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 12:26:35: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 12:40:38: [rockthevote.smx] RTV changing map manually
+L 06/27/2017 - 12:40:38: [SM] Changed map to "z_ravenhell_h"
+L 06/27/2017 - 12:40:38: -------- Mapchange to z_ravenhell_h --------
+L 06/27/2017 - 12:40:44: [randomcycle.smx] RandomCycle has chosen dm_coldruins_rc1_h for the nextmap.
+L 06/27/2017 - 12:41:16: [mapchooser.smx] Starting map vote because outside request
+L 06/27/2017 - 12:41:16: [mapchooser.smx] Voting for next map has started.
+L 06/27/2017 - 12:41:37: [mapchooser.smx] Voting for next map has finished. Nextmap: dm_montana_h.
+L 06/27/2017 - 12:41:39: [SM] Changed map to "dm_montana_h"
+L 06/27/2017 - 12:41:40: -------- Mapchange to dm_montana_h --------
+L 06/27/2017 - 12:41:46: [randomcycle.smx] RandomCycle has chosen dm_morbid_h for the nextmap.
+L 06/27/2017 - 13:34:56: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 13:34:56: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 13:34:56: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 13:34:57: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 13:35:03: [randomcycle.smx] RandomCycle has chosen pb_z_disorder_h for the nextmap.
+L 06/27/2017 - 13:35:04: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 13:35:09: [randomcycle.smx] RandomCycle has chosen dm_october_h for the nextmap.
+L 06/27/2017 - 13:35:24: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 13:36:18: [basecommands.smx] "-Пβ- Ethorbit (Editing Server<2><[U:1:155839730]><>" kicked "Bot01<3><BOT><>" (reason "")
+L 06/27/2017 - 13:36:25: [basecommands.smx] "-Пβ- Ethorbit (Editing Server<2><[U:1:155839730]><>" kicked "Bot02<4><BOT><>" (reason "")
+L 06/27/2017 - 13:36:33: [basecommands.smx] "-Пβ- Ethorbit (Editing Server<2><[U:1:155839730]><>" kicked "Bot03<5><BOT><>" (reason "")
+L 06/27/2017 - 13:36:46: [basecommands.smx] "-Пβ- Ethorbit (Editing Server<2><[U:1:155839730]><>" kicked "Bot04<6><BOT><>" (reason "")
+L 06/27/2017 - 14:10:11: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 14:10:11: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:10:11: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 14:10:11: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 14:10:17: [randomcycle.smx] RandomCycle has chosen pb_z_area51_h for the nextmap.
+L 06/27/2017 - 14:10:18: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:10:23: [randomcycle.smx] RandomCycle has chosen dm_cave_h for the nextmap.
+L 06/27/2017 - 14:10:36: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 14:12:15: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 14:12:15: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:12:15: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 14:12:15: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 14:12:20: [randomcycle.smx] RandomCycle has chosen pb_z_office_tower_v2_h for the nextmap.
+L 06/27/2017 - 14:12:21: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:12:27: [randomcycle.smx] RandomCycle has chosen dm_hellsdistrict_h for the nextmap.
+L 06/27/2017 - 14:12:32: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 14:16:12: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 14:17:00: [basecommands.smx] "-Пβ- Ethorbit<5><[U:1:155839730]><>" kicked "Bot01<6><BOT><>" (reason "")
+L 06/27/2017 - 14:17:13: [basecommands.smx] "-Пβ- Ethorbit<5><[U:1:155839730]><>" kicked "Bot02<7><BOT><>" (reason "")
+L 06/27/2017 - 14:21:28: SourceMod log file session started (file "L20170627.log") (Version "1.8.0.5973")
+L 06/27/2017 - 14:21:28: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:21:28: [GEOIP] GeoIP database info: GEO-106FREE 20170207 Build 1 Copyright (c) 2017 MaxMind 
+L 06/27/2017 - 14:21:28: [savescores.smx] Note: This plugin supports updating via Plugin Autoupdater. Install it if you want to enable auto-update functionality.
+L 06/27/2017 - 14:21:34: [randomcycle.smx] RandomCycle has chosen dm_cave_h for the nextmap.
+L 06/27/2017 - 14:21:35: -------- Mapchange to pb_z_high_school_h --------
+L 06/27/2017 - 14:21:40: [randomcycle.smx] RandomCycle has chosen z_ravenhell_h for the nextmap.
+L 06/27/2017 - 14:21:43: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.
+L 06/27/2017 - 14:21:56: [basecommands.smx] "-Пβ- Ethorbit<2><[U:1:155839730]><>" kicked "Bot01<3><BOT><>" (reason "")
+L 06/27/2017 - 14:22:16: [customvotes.smx] Configuration file addons\sourcemod\configs\customvotes.cfg loaded.

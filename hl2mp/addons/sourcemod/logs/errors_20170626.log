@@ -1,0 +1,1341 @@
+L 06/26/2017 - 00:20:30: SourceMod error session started
+L 06/26/2017 - 00:20:30: Info (map "pb_z_industry_h") (file "errors_20170626.log")
+L 06/26/2017 - 00:20:30: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 00:20:30: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 00:20:30: [SM] Call stack trace:
+L 06/26/2017 - 00:20:30: [SM]   [0] GetEntPropString
+L 06/26/2017 - 00:20:30: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 00:20:30: [SM]   [2] Line 1221, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 00:20:30: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 00:20:33: Error log file session closed.
+L 06/26/2017 - 00:20:33: SourceMod error session started
+L 06/26/2017 - 00:20:33: Info (map "dm_laststop_h") (file "errors_20170626.log")
+L 06/26/2017 - 00:20:33: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 00:20:33: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 00:20:33: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 00:20:33: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 00:20:33: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 00:27:15: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 00:27:15: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 00:27:15: [SM] Call stack trace:
+L 06/26/2017 - 00:27:15: [SM]   [0] GetEntPropString
+L 06/26/2017 - 00:27:15: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 00:27:15: [SM]   [2] Line 1371, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 00:27:15: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 01:02:40: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 01:02:40: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 01:02:40: [SM] Call stack trace:
+L 06/26/2017 - 01:02:40: [SM]   [0] GetEntPropString
+L 06/26/2017 - 01:02:40: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 01:02:40: [SM]   [2] Line 1371, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 01:02:40: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 01:20:45: Error log file session closed.
+L 06/26/2017 - 01:20:45: SourceMod error session started
+L 06/26/2017 - 01:20:45: Info (map "dm_pinnacles_h") (file "errors_20170626.log")
+L 06/26/2017 - 01:20:45: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 01:20:45: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 01:20:45: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 01:20:45: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 01:20:45: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 01:35:57: SourceMod error session started
+L 06/26/2017 - 01:35:57: Info (map "pb_z_high_school_h") (file "errors_20170626.log")
+L 06/26/2017 - 01:35:57: [SDKTOOLS] Invalid detour address passed - Disabling detour to prevent crashes
+L 06/26/2017 - 01:35:57: [SM] Unable to load extension "soundlib.ext": error code 0000007e
+L 06/26/2017 - 01:35:57: [SM] Unable to load extension "config.ext": error code 0000007e
+L 06/26/2017 - 01:35:57: [SM] Unable to load plugin "inviter-fix.smx": Could not find required plugin "steamcore"
+L 06/26/2017 - 01:35:57: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 01:35:57: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 01:35:57: [SM] Unable to load plugin "time-left-actions.smx": Required extension "Sound Info Library" file("soundlib.ext") not running
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 01:35:57: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 01:36:05: Error log file session closed.
+L 06/26/2017 - 01:36:05: SourceMod error session started
+L 06/26/2017 - 01:36:05: Info (map "pb_z_high_school_h") (file "errors_20170626.log")
+L 06/26/2017 - 01:36:05: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 01:36:05: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 01:36:05: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 03:12:06: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 03:12:06: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 03:12:06: [SM] Call stack trace:
+L 06/26/2017 - 03:12:06: [SM]   [0] GetEntPropString
+L 06/26/2017 - 03:12:06: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 03:12:06: [SM]   [2] Line 1680, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 03:12:06: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 03:12:32: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 03:12:32: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 03:12:32: [SM] Call stack trace:
+L 06/26/2017 - 03:12:32: [SM]   [0] GetEntPropString
+L 06/26/2017 - 03:12:32: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 03:12:32: [SM]   [2] Line 1672, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 03:12:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 04:00:19: Error log file session closed.
+L 06/26/2017 - 04:00:19: SourceMod error session started
+L 06/26/2017 - 04:00:19: Info (map "dm_pinnacles_h") (file "errors_20170626.log")
+L 06/26/2017 - 04:00:19: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 04:00:19: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 04:00:19: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 04:48:34: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 04:48:34: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 04:48:34: [SM] Call stack trace:
+L 06/26/2017 - 04:48:34: [SM]   [0] GetEntPropString
+L 06/26/2017 - 04:48:34: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 04:48:34: [SM]   [2] Line 334, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 04:48:34: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:00:29: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 05:00:29: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:00:29: [SM] Call stack trace:
+L 06/26/2017 - 05:00:29: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:00:29: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:00:29: [SM]   [2] Line 326, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:00:29: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:00:29: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 05:00:29: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:00:29: [SM] Call stack trace:
+L 06/26/2017 - 05:00:29: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:00:29: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:00:29: [SM]   [2] Line 318, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:00:29: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:00:29: Error log file session closed.
+L 06/26/2017 - 05:00:29: SourceMod error session started
+L 06/26/2017 - 05:00:29: Info (map "dm_thetunnel_v1_h") (file "errors_20170626.log")
+L 06/26/2017 - 05:00:29: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 05:00:29: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 05:00:29: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 05:26:13: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 05:26:13: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:26:13: [SM] Call stack trace:
+L 06/26/2017 - 05:26:13: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:26:13: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:26:13: [SM]   [2] Line 409, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:26:13: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:29:11: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 05:29:11: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:29:11: [SM] Call stack trace:
+L 06/26/2017 - 05:29:11: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:29:11: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:29:11: [SM]   [2] Line 401, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:29:11: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:35:05: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 05:35:05: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:35:05: [SM] Call stack trace:
+L 06/26/2017 - 05:35:05: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:35:05: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:35:05: [SM]   [2] Line 401, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:35:05: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:35:52: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 05:35:52: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:35:52: [SM] Call stack trace:
+L 06/26/2017 - 05:35:52: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:35:52: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:35:52: [SM]   [2] Line 393, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:35:52: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:49:02: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 05:49:02: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 05:49:44: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 05:49:44: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:49:44: [SM] Call stack trace:
+L 06/26/2017 - 05:49:44: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:49:44: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:49:44: [SM]   [2] Line 393, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:49:44: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 05:52:17: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 05:52:17: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 05:52:17: [SM] Call stack trace:
+L 06/26/2017 - 05:52:17: [SM]   [0] GetEntPropString
+L 06/26/2017 - 05:52:17: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 05:52:17: [SM]   [2] Line 393, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 05:52:17: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 06:00:41: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 06:00:41: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 06:00:41: [SM] Call stack trace:
+L 06/26/2017 - 06:00:41: [SM]   [0] GetEntPropString
+L 06/26/2017 - 06:00:41: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 06:00:41: [SM]   [2] Line 385, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 06:00:41: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 06:00:49: Error log file session closed.
+L 06/26/2017 - 06:01:00: SourceMod error session started
+L 06/26/2017 - 06:01:00: Info (map "pb_z_area51_h") (file "errors_20170626.log")
+L 06/26/2017 - 06:01:00: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 06:01:00: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 06:01:00: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 06:01:00: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 06:01:00: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 06:53:21: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 06:53:21: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 06:53:21: [SM] Call stack trace:
+L 06/26/2017 - 06:53:21: [SM]   [0] GetEntPropString
+L 06/26/2017 - 06:53:21: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 06:53:21: [SM]   [2] Line 1772, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 06:53:21: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:01:13: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 07:01:13: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:01:13: [SM] Call stack trace:
+L 06/26/2017 - 07:01:13: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:01:13: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:01:13: [SM]   [2] Line 1764, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:01:13: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:01:13: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 07:01:13: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:01:13: [SM] Call stack trace:
+L 06/26/2017 - 07:01:13: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:01:13: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:01:13: [SM]   [2] Line 1756, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:01:13: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:01:13: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 07:01:13: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:01:13: [SM] Call stack trace:
+L 06/26/2017 - 07:01:13: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:01:13: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:01:13: [SM]   [2] Line 1748, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:01:13: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:01:18: Error log file session closed.
+L 06/26/2017 - 07:01:18: SourceMod error session started
+L 06/26/2017 - 07:01:18: Info (map "pb_z_office_tower_v2_h") (file "errors_20170626.log")
+L 06/26/2017 - 07:01:18: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 07:01:18: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 07:01:18: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 07:01:18: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 07:01:18: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 07:09:29: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 07:09:29: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:09:29: [SM] Call stack trace:
+L 06/26/2017 - 07:09:29: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:09:29: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:09:29: [SM]   [2] Line 803, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:09:29: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:14:01: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 07:14:01: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:14:01: [SM] Call stack trace:
+L 06/26/2017 - 07:14:01: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:14:01: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:14:01: [SM]   [2] Line 803, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:14:01: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:18:37: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 07:18:37: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:18:37: [SM] Call stack trace:
+L 06/26/2017 - 07:18:37: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:18:37: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:18:37: [SM]   [2] Line 795, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:18:37: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:21:59: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 07:21:59: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:21:59: [SM] Call stack trace:
+L 06/26/2017 - 07:21:59: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:21:59: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:21:59: [SM]   [2] Line 787, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:21:59: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:32:31: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 07:32:31: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:32:31: [SM] Call stack trace:
+L 06/26/2017 - 07:32:31: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:32:31: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:32:31: [SM]   [2] Line 787, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:32:31: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 07:32:34: Error log file session closed.
+L 06/26/2017 - 07:32:34: SourceMod error session started
+L 06/26/2017 - 07:32:34: Info (map "dm_laststop_h") (file "errors_20170626.log")
+L 06/26/2017 - 07:32:34: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 07:32:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 07:32:34: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 07:32:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 07:32:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 07:51:42: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 07:51:42: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 07:51:42: [SM] Call stack trace:
+L 06/26/2017 - 07:51:42: [SM]   [0] GetEntPropString
+L 06/26/2017 - 07:51:42: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 07:51:42: [SM]   [2] Line 1387, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 07:51:42: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:09:47: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 08:09:47: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:09:47: [SM] Call stack trace:
+L 06/26/2017 - 08:09:47: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:09:47: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:09:47: [SM]   [2] Line 1395, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:09:47: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:12:32: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 08:12:32: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:12:32: [SM] Call stack trace:
+L 06/26/2017 - 08:12:32: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:12:32: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:12:32: [SM]   [2] Line 1387, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:12:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:32:43: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 08:32:43: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:32:43: [SM] Call stack trace:
+L 06/26/2017 - 08:32:43: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:32:43: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:32:43: [SM]   [2] Line 1387, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:32:43: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:32:43: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 08:32:43: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:32:43: [SM] Call stack trace:
+L 06/26/2017 - 08:32:43: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:32:43: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:32:43: [SM]   [2] Line 1379, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:32:43: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:32:43: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 08:32:43: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:32:43: [SM] Call stack trace:
+L 06/26/2017 - 08:32:43: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:32:43: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:32:43: [SM]   [2] Line 1371, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:32:43: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 08:32:45: Error log file session closed.
+L 06/26/2017 - 08:32:45: SourceMod error session started
+L 06/26/2017 - 08:32:45: Info (map "pb_z_colony_h") (file "errors_20170626.log")
+L 06/26/2017 - 08:32:45: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 08:32:45: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 08:32:45: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 08:32:45: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 08:32:45: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 08:43:57: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 08:43:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 08:43:57: [SM] Call stack trace:
+L 06/26/2017 - 08:43:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 08:43:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 08:43:57: [SM]   [2] Line 854, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 08:43:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 09:11:26: Error log file session closed.
+L 06/26/2017 - 09:11:26: SourceMod error session started
+L 06/26/2017 - 09:11:26: Info (map "dm_snowfall_h") (file "errors_20170626.log")
+L 06/26/2017 - 09:11:26: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 09:11:26: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 09:11:26: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 09:11:26: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 09:11:26: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 10:10:54: Error log file session closed.
+L 06/26/2017 - 10:10:54: SourceMod error session started
+L 06/26/2017 - 10:10:54: Info (map "dm_central_station_v1_h") (file "errors_20170626.log")
+L 06/26/2017 - 10:10:54: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 10:10:54: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 10:10:54: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 10:10:54: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 10:10:54: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 10:46:34: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 10:46:34: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 10:46:34: [SM] Call stack trace:
+L 06/26/2017 - 10:46:34: [SM]   [0] GetEntPropString
+L 06/26/2017 - 10:46:34: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 10:46:34: [SM]   [2] Line 492, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 10:46:34: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 10:46:50: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 10:46:50: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 10:46:50: [SM] Call stack trace:
+L 06/26/2017 - 10:46:50: [SM]   [0] GetEntPropString
+L 06/26/2017 - 10:46:50: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 10:46:50: [SM]   [2] Line 484, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 10:46:50: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 10:50:43: [SM] Exception reported: Entity 7 (7) is invalid
+L 06/26/2017 - 10:50:43: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 10:50:43: [SM] Call stack trace:
+L 06/26/2017 - 10:50:43: [SM]   [0] GetEntPropString
+L 06/26/2017 - 10:50:43: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 10:50:43: [SM]   [2] Line 484, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 10:50:43: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 10:52:59: [SM] Exception reported: Entity 6 (6) is invalid
+L 06/26/2017 - 10:52:59: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 10:52:59: [SM] Call stack trace:
+L 06/26/2017 - 10:52:59: [SM]   [0] GetEntPropString
+L 06/26/2017 - 10:52:59: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 10:52:59: [SM]   [2] Line 476, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 10:52:59: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 10:53:37: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 10:53:37: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 10:53:37: [SM] Call stack trace:
+L 06/26/2017 - 10:53:37: [SM]   [0] GetEntPropString
+L 06/26/2017 - 10:53:37: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 10:53:37: [SM]   [2] Line 468, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 10:53:37: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 11:00:00: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 11:00:00: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 11:00:00: [SM] Call stack trace:
+L 06/26/2017 - 11:00:00: [SM]   [0] GetEntPropString
+L 06/26/2017 - 11:00:00: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 11:00:00: [SM]   [2] Line 468, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 11:00:00: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 11:02:49: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 11:02:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 11:02:49: [SM] Call stack trace:
+L 06/26/2017 - 11:02:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 11:02:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 11:02:49: [SM]   [2] Line 460, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 11:02:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 11:03:06: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 11:03:06: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 11:03:06: [SM] Call stack trace:
+L 06/26/2017 - 11:03:06: [SM]   [0] GetEntPropString
+L 06/26/2017 - 11:03:06: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 11:03:06: [SM]   [2] Line 452, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 11:03:06: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 11:07:23: Error log file session closed.
+L 06/26/2017 - 11:07:23: SourceMod error session started
+L 06/26/2017 - 11:07:23: Info (map "dm_october_h") (file "errors_20170626.log")
+L 06/26/2017 - 11:07:23: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 11:07:23: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 11:07:23: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 11:07:23: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 11:07:23: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 11:15:10: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 11:15:10: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 11:15:10: [SM] Call stack trace:
+L 06/26/2017 - 11:15:10: [SM]   [0] GetEntPropString
+L 06/26/2017 - 11:15:10: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 11:15:10: [SM]   [2] Line 586, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 11:15:10: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 11:37:26: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 11:37:26: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 11:37:26: [SM] Call stack trace:
+L 06/26/2017 - 11:37:26: [SM]   [0] GetEntPropString
+L 06/26/2017 - 11:37:26: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 11:37:26: [SM]   [2] Line 586, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 11:37:26: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:07:34: Error log file session closed.
+L 06/26/2017 - 12:07:34: SourceMod error session started
+L 06/26/2017 - 12:07:34: Info (map "pb_z_disorder_h") (file "errors_20170626.log")
+L 06/26/2017 - 12:07:34: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 12:07:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:07:34: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 12:07:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 12:07:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 12:20:12: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 12:20:12: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:20:12: [SM] Call stack trace:
+L 06/26/2017 - 12:20:12: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:20:12: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:20:12: [SM]   [2] Line 921, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:20:12: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:38:19: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 12:38:19: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:38:19: [SM] Call stack trace:
+L 06/26/2017 - 12:38:19: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:38:19: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:38:19: [SM]   [2] Line 929, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:38:19: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:40:39: [SM] Exception reported: Language phrase "Score restored" not found
+L 06/26/2017 - 12:40:39: [SM] Blaming: savescores.smx
+L 06/26/2017 - 12:40:39: [SM] Call stack trace:
+L 06/26/2017 - 12:40:39: [SM]   [0] VFormat
+L 06/26/2017 - 12:40:39: [SM]   [1] Line 60, D:\Source-Servers\css_sm_1.2.4\cstrike\addons\sourcemod\scripting\include\colors.inc::CPrintToChat
+L 06/26/2017 - 12:40:39: [SM]   [2] Line 649, D:\Source-Servers\css_sm_1.2.4\cstrike\addons\sourcemod\scripting\savescores.sp::SetPlayerScore
+L 06/26/2017 - 12:41:25: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 12:41:25: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:41:25: [SM] Call stack trace:
+L 06/26/2017 - 12:41:25: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:41:25: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:41:25: [SM]   [2] Line 945, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:41:25: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:43:47: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 12:43:47: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:43:47: [SM] Call stack trace:
+L 06/26/2017 - 12:43:47: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:43:47: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:43:47: [SM]   [2] Line 937, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:43:47: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:46:17: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 12:46:17: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:46:17: [SM] Call stack trace:
+L 06/26/2017 - 12:46:17: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:46:17: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:46:17: [SM]   [2] Line 937, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:46:17: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:46:17: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 12:46:17: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:46:17: [SM] Call stack trace:
+L 06/26/2017 - 12:46:17: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:46:17: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:46:17: [SM]   [2] Line 929, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:46:17: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:46:17: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 12:46:17: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:46:17: [SM] Call stack trace:
+L 06/26/2017 - 12:46:17: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:46:17: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:46:17: [SM]   [2] Line 921, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:46:17: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:46:18: Error log file session closed.
+L 06/26/2017 - 12:46:18: SourceMod error session started
+L 06/26/2017 - 12:46:18: Info (map "z_ravenhell_h") (file "errors_20170626.log")
+L 06/26/2017 - 12:46:18: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 12:46:18: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:46:18: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 12:46:18: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 12:46:18: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 12:47:32: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 12:47:32: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:47:32: [SM] Call stack trace:
+L 06/26/2017 - 12:47:32: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:47:32: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:47:32: [SM]   [2] Line 267, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:47:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:47:55: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 12:47:55: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:47:55: [SM] Call stack trace:
+L 06/26/2017 - 12:47:55: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:47:55: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:47:55: [SM]   [2] Line 259, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:47:55: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:47:55: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 12:47:55: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 12:47:55: [SM] Call stack trace:
+L 06/26/2017 - 12:47:55: [SM]   [0] GetEntPropString
+L 06/26/2017 - 12:47:55: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 12:47:55: [SM]   [2] Line 251, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 12:47:55: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 12:47:55: Error log file session closed.
+L 06/26/2017 - 12:47:55: SourceMod error session started
+L 06/26/2017 - 12:47:55: Info (map "pb_z_area51_h") (file "errors_20170626.log")
+L 06/26/2017 - 12:47:55: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 12:47:55: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:47:55: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 12:47:55: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 12:47:55: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 13:12:04: [SM] Exception reported: Entity 8 (8) is invalid
+L 06/26/2017 - 13:12:04: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:12:04: [SM] Call stack trace:
+L 06/26/2017 - 13:12:04: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:12:04: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:12:04: [SM]   [2] Line 1804, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:12:04: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:22:15: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 13:22:15: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:22:15: [SM] Call stack trace:
+L 06/26/2017 - 13:22:15: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:22:15: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:22:15: [SM]   [2] Line 1796, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:22:15: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:26:55: [SM] Exception reported: Entity 7 (7) is invalid
+L 06/26/2017 - 13:26:55: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:26:55: [SM] Call stack trace:
+L 06/26/2017 - 13:26:55: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:26:55: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:26:55: [SM]   [2] Line 1788, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:26:55: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:33:24: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 13:33:24: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:33:24: [SM] Call stack trace:
+L 06/26/2017 - 13:33:24: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:33:24: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:33:24: [SM]   [2] Line 1788, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:33:24: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:33:50: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 13:33:50: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:33:50: [SM] Call stack trace:
+L 06/26/2017 - 13:33:50: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:33:50: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:33:50: [SM]   [2] Line 1780, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:33:50: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:34:02: [SM] Exception reported: Entity 6 (6) is invalid
+L 06/26/2017 - 13:34:02: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:34:02: [SM] Call stack trace:
+L 06/26/2017 - 13:34:02: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:34:02: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:34:02: [SM]   [2] Line 1772, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:34:02: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:35:21: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 13:35:21: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:35:21: [SM] Call stack trace:
+L 06/26/2017 - 13:35:21: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:35:21: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:35:21: [SM]   [2] Line 1764, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:35:21: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:05: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 13:48:05: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:48:05: [SM] Call stack trace:
+L 06/26/2017 - 13:48:05: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:48:05: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:48:05: [SM]   [2] Line 1756, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:48:05: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:05: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 13:48:05: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:48:05: [SM] Call stack trace:
+L 06/26/2017 - 13:48:05: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:48:05: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:48:05: [SM]   [2] Line 1748, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:48:05: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:06: Error log file session closed.
+L 06/26/2017 - 13:48:06: SourceMod error session started
+L 06/26/2017 - 13:48:06: Info (map "pb_z_earthquake_h") (file "errors_20170626.log")
+L 06/26/2017 - 13:48:06: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 13:48:06: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 13:48:06: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 13:48:06: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 13:48:06: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 13:48:47: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 13:48:47: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:48:47: [SM] Call stack trace:
+L 06/26/2017 - 13:48:47: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:48:47: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:48:47: [SM]   [2] Line 1328, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:48:47: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:47: [SM]   [5] KickClient
+L 06/26/2017 - 13:48:47: [SM]   [6] Line 40, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::PerformKick
+L 06/26/2017 - 13:48:47: [SM]   [7] Line 196, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::Command_Kick
+L 06/26/2017 - 13:48:50: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 13:48:50: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:48:50: [SM] Call stack trace:
+L 06/26/2017 - 13:48:50: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:48:50: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:48:50: [SM]   [2] Line 1320, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:48:50: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:50: [SM]   [5] KickClient
+L 06/26/2017 - 13:48:50: [SM]   [6] Line 40, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::PerformKick
+L 06/26/2017 - 13:48:50: [SM]   [7] Line 196, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::Command_Kick
+L 06/26/2017 - 13:48:52: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 13:48:52: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:48:52: [SM] Call stack trace:
+L 06/26/2017 - 13:48:52: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:48:52: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:48:52: [SM]   [2] Line 1312, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:48:52: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:48:52: [SM]   [5] KickClient
+L 06/26/2017 - 13:48:52: [SM]   [6] Line 40, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::PerformKick
+L 06/26/2017 - 13:48:52: [SM]   [7] Line 196, /home/builds/sourcemod/linux-1.8/build/plugins/basecommands/kick.sp::Command_Kick
+L 06/26/2017 - 13:51:44: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 13:51:44: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:51:44: [SM] Call stack trace:
+L 06/26/2017 - 13:51:44: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:51:44: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:51:44: [SM]   [2] Line 1304, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:51:44: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:54:59: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 13:54:59: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:54:59: [SM] Call stack trace:
+L 06/26/2017 - 13:54:59: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:54:59: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:54:59: [SM]   [2] Line 1328, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:54:59: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:57:31: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 13:57:31: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:57:31: [SM] Call stack trace:
+L 06/26/2017 - 13:57:31: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:57:31: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:57:31: [SM]   [2] Line 1328, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:57:31: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 13:59:14: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 13:59:14: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 13:59:14: [SM] Call stack trace:
+L 06/26/2017 - 13:59:14: [SM]   [0] GetEntPropString
+L 06/26/2017 - 13:59:14: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 13:59:14: [SM]   [2] Line 1320, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 13:59:14: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:03:52: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 14:03:52: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 14:03:52: [SM] Call stack trace:
+L 06/26/2017 - 14:03:52: [SM]   [0] GetEntPropString
+L 06/26/2017 - 14:03:52: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 14:03:52: [SM]   [2] Line 1320, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 14:03:52: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:06:30: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 14:06:30: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 14:06:30: [SM] Call stack trace:
+L 06/26/2017 - 14:06:30: [SM]   [0] GetEntPropString
+L 06/26/2017 - 14:06:30: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 14:06:30: [SM]   [2] Line 1312, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 14:06:30: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:08:44: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 14:08:44: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 14:08:44: [SM] Call stack trace:
+L 06/26/2017 - 14:08:44: [SM]   [0] GetEntPropString
+L 06/26/2017 - 14:08:44: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 14:08:44: [SM]   [2] Line 1312, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 14:08:44: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:09:10: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 14:09:10: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 14:09:10: [SM] Call stack trace:
+L 06/26/2017 - 14:09:10: [SM]   [0] GetEntPropString
+L 06/26/2017 - 14:09:10: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 14:09:10: [SM]   [2] Line 1304, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 14:09:10: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:09:15: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 14:09:15: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 14:09:15: [SM] Call stack trace:
+L 06/26/2017 - 14:09:15: [SM]   [0] GetEntPropString
+L 06/26/2017 - 14:09:15: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 14:09:15: [SM]   [2] Line 1296, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 14:09:15: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 14:48:22: Error log file session closed.
+L 06/26/2017 - 14:48:22: SourceMod error session started
+L 06/26/2017 - 14:48:22: Info (map "dm_hometown1999_h") (file "errors_20170626.log")
+L 06/26/2017 - 14:48:22: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 14:48:22: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 14:48:22: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 14:48:22: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 14:48:22: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 15:48:33: Error log file session closed.
+L 06/26/2017 - 15:48:33: SourceMod error session started
+L 06/26/2017 - 15:48:33: Info (map "dm_montana_h") (file "errors_20170626.log")
+L 06/26/2017 - 15:48:33: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 15:48:33: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 15:48:33: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 15:48:33: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 15:48:33: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 16:48:43: Error log file session closed.
+L 06/26/2017 - 16:48:43: SourceMod error session started
+L 06/26/2017 - 16:48:43: Info (map "dm_central_station_v1_h") (file "errors_20170626.log")
+L 06/26/2017 - 16:48:43: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 16:48:43: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 16:48:43: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 16:48:43: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 16:48:43: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 17:34:03: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 17:34:03: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 17:34:03: [SM] Call stack trace:
+L 06/26/2017 - 17:34:03: [SM]   [0] GetEntPropString
+L 06/26/2017 - 17:34:03: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 17:34:03: [SM]   [2] Line 452, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 17:34:03: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 17:48:55: Error log file session closed.
+L 06/26/2017 - 17:48:55: SourceMod error session started
+L 06/26/2017 - 17:48:55: Info (map "pb_z_high_school_h") (file "errors_20170626.log")
+L 06/26/2017 - 17:48:55: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 17:48:55: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 17:48:55: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 17:48:55: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 17:48:55: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 18:49:06: Error log file session closed.
+L 06/26/2017 - 18:49:06: SourceMod error session started
+L 06/26/2017 - 18:49:06: Info (map "dm_coldruins_rc1_h") (file "errors_20170626.log")
+L 06/26/2017 - 18:49:06: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 18:49:06: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 18:49:06: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 18:49:06: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 18:49:06: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 18:55:29: Error log file session closed.
+L 06/26/2017 - 18:55:29: SourceMod error session started
+L 06/26/2017 - 18:55:29: Info (map "dm_october_h") (file "errors_20170626.log")
+L 06/26/2017 - 18:55:29: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 18:55:29: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 18:55:29: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 18:55:29: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 18:55:29: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 19:02:30: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:02:30: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:02:30: [SM] Call stack trace:
+L 06/26/2017 - 19:02:30: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:02:30: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:02:30: [SM]   [2] Line 610, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:02:30: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:09:57: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:09:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:09:57: [SM] Call stack trace:
+L 06/26/2017 - 19:09:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:09:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:09:57: [SM]   [2] Line 626, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:09:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:12:39: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:12:39: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:12:39: [SM] Call stack trace:
+L 06/26/2017 - 19:12:39: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:12:39: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:12:39: [SM]   [2] Line 642, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:12:39: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:15:45: [SM] Exception reported: Entity 9 (9) is invalid
+L 06/26/2017 - 19:15:45: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:15:45: [SM] Call stack trace:
+L 06/26/2017 - 19:15:45: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:15:45: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:15:45: [SM]   [2] Line 642, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:15:45: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:16:35: [SM] Exception reported: Entity 8 (8) is invalid
+L 06/26/2017 - 19:16:35: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:16:35: [SM] Call stack trace:
+L 06/26/2017 - 19:16:35: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:16:35: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:16:35: [SM]   [2] Line 642, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:16:35: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:35: [SM] Exception reported: Entity 11 (11) is invalid
+L 06/26/2017 - 19:19:35: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:35: [SM] Call stack trace:
+L 06/26/2017 - 19:19:35: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:35: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:35: [SM]   [2] Line 642, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:35: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 634, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 626, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 618, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 610, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 602, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 6 (6) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 594, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:58: [SM] Exception reported: Entity 7 (7) is invalid
+L 06/26/2017 - 19:19:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:19:58: [SM] Call stack trace:
+L 06/26/2017 - 19:19:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:19:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:19:58: [SM]   [2] Line 586, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:19:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:19:59: Error log file session closed.
+L 06/26/2017 - 19:19:59: SourceMod error session started
+L 06/26/2017 - 19:19:59: Info (map "pb_z_underground_h") (file "errors_20170626.log")
+L 06/26/2017 - 19:19:59: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 19:19:59: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 19:19:59: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 19:19:59: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 19:19:59: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 19:22:26: [SM] Exception reported: Entity 7 (7) is invalid
+L 06/26/2017 - 19:22:26: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:22:26: [SM] Call stack trace:
+L 06/26/2017 - 19:22:26: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:22:26: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:22:26: [SM]   [2] Line 1052, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:22:26: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:18: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 19:24:18: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:18: [SM] Call stack trace:
+L 06/26/2017 - 19:24:18: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:18: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:18: [SM]   [2] Line 1044, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:18: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 1036, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 1028, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 1020, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 1012, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 6 (6) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 1004, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:57: [SM] Exception reported: Entity 10 (10) is invalid
+L 06/26/2017 - 19:24:57: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:24:57: [SM] Call stack trace:
+L 06/26/2017 - 19:24:57: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:24:57: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:24:57: [SM]   [2] Line 996, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:24:57: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:24:58: Error log file session closed.
+L 06/26/2017 - 19:24:58: SourceMod error session started
+L 06/26/2017 - 19:24:58: Info (map "pb_z_disorder_h") (file "errors_20170626.log")
+L 06/26/2017 - 19:24:58: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 19:24:58: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 19:24:58: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 19:24:58: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 19:24:58: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 19:29:16: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 19:29:16: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:29:16: [SM] Call stack trace:
+L 06/26/2017 - 19:29:16: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:29:16: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:29:16: [SM]   [2] Line 977, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:29:16: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:30:27: [SM] Exception reported: Entity 10 (10) is invalid
+L 06/26/2017 - 19:30:27: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:30:27: [SM] Call stack trace:
+L 06/26/2017 - 19:30:27: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:30:27: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:30:27: [SM]   [2] Line 969, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:30:27: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:33:39: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 19:33:39: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:33:39: [SM] Call stack trace:
+L 06/26/2017 - 19:33:39: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:33:39: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:33:39: [SM]   [2] Line 961, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:33:39: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:34:41: [SM] Exception reported: Entity 7 (7) is invalid
+L 06/26/2017 - 19:34:41: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:34:41: [SM] Call stack trace:
+L 06/26/2017 - 19:34:41: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:34:41: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:34:41: [SM]   [2] Line 961, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:34:41: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 19:38:09: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 19:38:09: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 19:38:09: [SM] Call stack trace:
+L 06/26/2017 - 19:38:09: [SM]   [0] GetEntPropString
+L 06/26/2017 - 19:38:09: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 19:38:09: [SM]   [2] Line 953, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 19:38:09: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 20:25:08: Error log file session closed.
+L 06/26/2017 - 20:25:08: SourceMod error session started
+L 06/26/2017 - 20:25:08: Info (map "pb_z_area51_h") (file "errors_20170626.log")
+L 06/26/2017 - 20:25:08: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 20:25:08: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 20:25:08: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 20:25:08: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 20:25:08: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 20:51:32: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 20:51:32: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 20:51:32: [SM] Call stack trace:
+L 06/26/2017 - 20:51:32: [SM]   [0] GetEntPropString
+L 06/26/2017 - 20:51:32: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 20:51:32: [SM]   [2] Line 1756, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 20:51:32: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:06:24: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 21:06:24: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:06:24: [SM] Call stack trace:
+L 06/26/2017 - 21:06:24: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:06:24: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:06:24: [SM]   [2] Line 1780, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:06:24: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:09:18: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 21:09:18: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:09:18: [SM] Call stack trace:
+L 06/26/2017 - 21:09:18: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:09:18: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:09:18: [SM]   [2] Line 1780, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:09:18: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 21:12:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:12:49: [SM] Call stack trace:
+L 06/26/2017 - 21:12:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:12:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:12:49: [SM]   [2] Line 1780, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:12:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 21:12:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:12:49: [SM] Call stack trace:
+L 06/26/2017 - 21:12:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:12:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:12:49: [SM]   [2] Line 1772, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:12:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 21:12:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:12:49: [SM] Call stack trace:
+L 06/26/2017 - 21:12:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:12:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:12:49: [SM]   [2] Line 1764, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:12:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 21:12:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:12:49: [SM] Call stack trace:
+L 06/26/2017 - 21:12:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:12:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:12:49: [SM]   [2] Line 1756, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:12:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 21:12:49: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:12:49: [SM] Call stack trace:
+L 06/26/2017 - 21:12:49: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:12:49: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:12:49: [SM]   [2] Line 1748, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:12:49: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:12:49: Error log file session closed.
+L 06/26/2017 - 21:12:49: SourceMod error session started
+L 06/26/2017 - 21:12:49: Info (map "pb_z_colony_h") (file "errors_20170626.log")
+L 06/26/2017 - 21:12:49: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 21:12:49: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 21:12:49: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 21:12:49: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 21:12:49: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 21:19:30: [SM] Exception reported: Entity 5 (5) is invalid
+L 06/26/2017 - 21:19:30: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:19:30: [SM] Call stack trace:
+L 06/26/2017 - 21:19:30: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:19:30: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:19:30: [SM]   [2] Line 870, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:19:30: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:31:18: [SM] Exception reported: Entity 4 (4) is invalid
+L 06/26/2017 - 21:31:18: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:31:18: [SM] Call stack trace:
+L 06/26/2017 - 21:31:18: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:31:18: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:31:18: [SM]   [2] Line 862, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:31:18: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:39:38: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 21:39:38: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:39:38: [SM] Call stack trace:
+L 06/26/2017 - 21:39:38: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:39:38: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:39:38: [SM]   [2] Line 862, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:39:38: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:39:38: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 21:39:38: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 21:39:38: [SM] Call stack trace:
+L 06/26/2017 - 21:39:38: [SM]   [0] GetEntPropString
+L 06/26/2017 - 21:39:38: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 21:39:38: [SM]   [2] Line 854, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 21:39:38: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 21:39:39: Error log file session closed.
+L 06/26/2017 - 21:39:39: SourceMod error session started
+L 06/26/2017 - 21:39:39: Info (map "dm_mine_entrance_h") (file "errors_20170626.log")
+L 06/26/2017 - 21:39:39: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 21:39:39: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 21:39:39: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 21:39:39: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 21:39:39: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 22:06:24: Error log file session closed.
+L 06/26/2017 - 22:06:24: SourceMod error session started
+L 06/26/2017 - 22:06:24: Info (map "pb_z_office_tower_v2_h") (file "errors_20170626.log")
+L 06/26/2017 - 22:06:24: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 22:06:24: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 22:06:24: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 22:06:24: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 22:06:24: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 22:15:58: [SM] Exception reported: Entity 3 (3) is invalid
+L 06/26/2017 - 22:15:58: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 22:15:58: [SM] Call stack trace:
+L 06/26/2017 - 22:15:58: [SM]   [0] GetEntPropString
+L 06/26/2017 - 22:15:58: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 22:15:58: [SM]   [2] Line 795, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 22:15:58: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 22:18:40: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 22:18:40: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 22:18:40: [SM] Call stack trace:
+L 06/26/2017 - 22:18:40: [SM]   [0] GetEntPropString
+L 06/26/2017 - 22:18:40: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 22:18:40: [SM]   [2] Line 795, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 22:18:40: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 22:22:08: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 22:22:08: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 22:22:08: [SM] Call stack trace:
+L 06/26/2017 - 22:22:08: [SM]   [0] GetEntPropString
+L 06/26/2017 - 22:22:08: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 22:22:08: [SM]   [2] Line 803, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 22:22:08: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 22:51:47: [SM] Exception reported: Entity 6 (6) is invalid
+L 06/26/2017 - 22:51:47: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 22:51:47: [SM] Call stack trace:
+L 06/26/2017 - 22:51:47: [SM]   [0] GetEntPropString
+L 06/26/2017 - 22:51:47: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 22:51:47: [SM]   [2] Line 803, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 22:51:47: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 22:58:59: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 22:58:59: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 22:58:59: [SM] Call stack trace:
+L 06/26/2017 - 22:58:59: [SM]   [0] GetEntPropString
+L 06/26/2017 - 22:58:59: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 22:58:59: [SM]   [2] Line 795, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 22:58:59: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 23:06:33: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 23:06:33: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 23:06:33: [SM] Call stack trace:
+L 06/26/2017 - 23:06:33: [SM]   [0] GetEntPropString
+L 06/26/2017 - 23:06:33: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 23:06:33: [SM]   [2] Line 787, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 23:06:33: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 23:06:34: Error log file session closed.
+L 06/26/2017 - 23:06:34: SourceMod error session started
+L 06/26/2017 - 23:06:34: Info (map "pb_z_office_tower_h") (file "errors_20170626.log")
+L 06/26/2017 - 23:06:34: [SM] Fatal error encountered parsing translation file "savescores.phrases.txt"
+L 06/26/2017 - 23:06:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 23:06:34: [SM] Fatal error encountered parsing translation file "customvotes.phrases.txt"
+L 06/26/2017 - 23:06:34: [SM] Error (line 0, column 0): Stream failed to open
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 13) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 19) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 25) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 31) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 37) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 37) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 43) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 43) Invalid flag detected: e
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 49) Invalid flag detected: d
+L 06/26/2017 - 23:06:34: [admin-flatfile.smx]  (line 49) Invalid flag detected: e
+L 06/26/2017 - 23:09:20: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 23:09:20: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 23:09:20: [SM] Call stack trace:
+L 06/26/2017 - 23:09:20: [SM]   [0] GetEntPropString
+L 06/26/2017 - 23:09:20: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 23:09:20: [SM]   [2] Line 661, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 23:09:20: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 23:09:42: [SM] Exception reported: Entity 1 (1) is invalid
+L 06/26/2017 - 23:09:42: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 23:09:42: [SM] Call stack trace:
+L 06/26/2017 - 23:09:42: [SM]   [0] GetEntPropString
+L 06/26/2017 - 23:09:42: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 23:09:42: [SM]   [2] Line 661, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 23:09:42: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post
+L 06/26/2017 - 23:09:53: [SM] Exception reported: Entity 2 (2) is invalid
+L 06/26/2017 - 23:09:53: [SM] Blaming: autodifficultypatch.smx
+L 06/26/2017 - 23:09:53: [SM] Call stack trace:
+L 06/26/2017 - 23:09:53: [SM]   [0] GetEntPropString
+L 06/26/2017 - 23:09:53: [SM]   [1] Line 1898, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::FindEntityByTargetName
+L 06/26/2017 - 23:09:53: [SM]   [2] Line 653, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::UpdateHeadcrab
+L 06/26/2017 - 23:09:53: [SM]   [3] Line 26, C:\Users\Ethorbit\Desktop\sourcemodbackup\sourcemod\addons\sourcemod\scripting\autodifficultypatch.sp::OnClientDisconnect_Post

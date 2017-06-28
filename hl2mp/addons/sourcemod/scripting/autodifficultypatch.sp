@@ -34,7 +34,162 @@ void UpdateHeadcrab() {
     char mapname[128];
     GetCurrentMap(mapname, sizeof(mapname));
 
-		if (strncmp(mapname, "dm_pinnacles_m", 14) == 0)
+  if (strncmp(mapname, "dm_mine_entrance_m", 18) == 0)
+    {
+	if (nClients == 0) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 2) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 3) {
+	ServerCommand("exec AutoMedium.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 4) {
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+		ServerCommand("exec AutoHard.cfg");
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 5) {
+	ServerCommand("exec AutoHard.cfg");
+		int entity = -1;
+		ServerCommand("exec AutoHard.cfg");
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 6) {
+	ServerCommand("exec AutoHard.cfg");
+		int entity = -1;
+		ServerCommand("exec AutoHard.cfg");
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 7) {
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+		ServerCommand("exec AutoHard.cfg");
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if (nClients == 8) {
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+		ServerCommand("exec AutoHard.cfg");
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }
+	
+if (strncmp(mapname, "dm_morbid_m", 13) == 0)
+    {
+	if (nClients == 0) {
+	ServerCommand("exec AutoEasy.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 2) {
+	ServerCommand("exec AutoEasy.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 3) {
+	ServerCommand("exec AutoMedium.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 4) {
+	ServerCommand("exec AutoMedium.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 5) {
+	ServerCommand("exec AutoHard.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 6) {
+	ServerCommand("exec AutoHard.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients == 7) {
+	ServerCommand("exec AutoInsane.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+			}
+        }
+		
+	if (nClients >= 8) {
+	ServerCommand("exec AutoInsane.cfg");
+					int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+		  }
+		  }
+	   }
+	
+	if (strncmp(mapname, "pb_z_richland_h", 15) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -92,7 +247,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -101,7 +256,7 @@ void UpdateHeadcrab() {
         }
     }	
 	
-		if (strncmp(mapname, "dm_thetunnel_v1_m", 17) == 0)
+	if (strncmp(mapname, "pb_z_hometown1999_h", 19) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -120,17 +275,17 @@ void UpdateHeadcrab() {
         }
 		
 	if( GetClientCount() == 3 ){
-	ServerCommand("exec AutoHard.cfg");
+	ServerCommand("exec AutoMedium.cfg");
 	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
             AcceptEntityInput(entity, "Enable");
         }
         }
 		
 	if( GetClientCount() == 4 ){
-	ServerCommand("exec AutoInsane.cfg");
+	ServerCommand("exec AutoHard.cfg");
 	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
             AcceptEntityInput(entity, "Enable");
         }
         }
@@ -159,7 +314,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -168,74 +323,7 @@ void UpdateHeadcrab() {
         }
     }	
 	
-		 if (strncmp(mapname, "dm_central_station_v1_m", 23) == 0)
-	    {
-	if( nClients == 1) {
-	ServerCommand("exec AutoEasy.cfg");
-			int entity = -1;
-		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 2 ){
-	ServerCommand("exec AutoMedium.cfg");
-			int entity = -1;
-		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 3 ){
-	ServerCommand("exec AutoMedium.cfg");
-	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 4 ){
-	ServerCommand("exec AutoHard.cfg");
-	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 5 ){
-	ServerCommand("exec AutoHard.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 6 ){
-	ServerCommand("exec AutoInsane.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 7 ){
-	ServerCommand("exec AutoInsane.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 8 ){
-	ServerCommand("exec AutoInsane.cfg");
-			int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-    }
-	
-		 if (strncmp(mapname, "dm_snowfall_m", 19) == 0)
+		if (strncmp(mapname, "z_ravenhell_h", 13) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -293,74 +381,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
-	ServerCommand("exec AutoInsane.cfg");
-			int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-    }
-	
-		if (strncmp(mapname, "dm_october_m", 14) == 0)
-	    {
-	if( nClients == 1) {
-	ServerCommand("exec AutoEasy.cfg");
-			int entity = -1;
-		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 2 ){
-	ServerCommand("exec AutoEasy.cfg");
-			int entity = -1;
-		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 3 ){
-	ServerCommand("exec AutoMedium.cfg");
-	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 4 ){
-	ServerCommand("exec AutoHard.cfg");
-	int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 5 ){
-	ServerCommand("exec AutoInsane.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 6 ){
-	ServerCommand("exec AutoInsane.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 7 ){
-	ServerCommand("exec AutoInsane.cfg");
-		int entity = -1;
-			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
-            AcceptEntityInput(entity, "Enable");
-        }
-        }
-		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -369,7 +390,342 @@ void UpdateHeadcrab() {
         }
     }	
 	
-		 if (strncmp(mapname, "pb_z_office_tower_m", 19) == 0)
+		if (strncmp(mapname, "dm_pinnacles_h", 14) == 0)
+	    {
+	if( nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 2 ){
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 3 ){
+	ServerCommand("exec AutoMedium.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 4 ){
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 5 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 6 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 7 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() >= 8 ){
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }	
+	
+		if (strncmp(mapname, "dm_thetunnel_v1_h", 17) == 0)
+	    {
+	if( nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 2 ){
+	ServerCommand("exec AutoMedium.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 3 ){
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 4 ){
+	ServerCommand("exec AutoInsane.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 5 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 6 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 7 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() >= 8 ){
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }	
+	
+		 if (strncmp(mapname, "dm_central_station_v1_h", 23) == 0)
+	    {
+	if( nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 2 ){
+	ServerCommand("exec AutoMedium.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 3 ){
+	ServerCommand("exec AutoMedium.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 4 ){
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 5 ){
+	ServerCommand("exec AutoHard.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 6 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 7 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() >= 8 ){
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }
+	
+		 if (strncmp(mapname, "dm_snowfall_h", 19) == 0)
+	    {
+	if( nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 2 ){
+	ServerCommand("exec AutoMedium.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 3 ){
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 4 ){
+	ServerCommand("exec AutoInsane.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 5 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 6 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 7 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() >= 8 ){
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }
+	
+		if (strncmp(mapname, "dm_october_h", 14) == 0)
+	    {
+	if( nClients == 1) {
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 2 ){
+	ServerCommand("exec AutoEasy.cfg");
+			int entity = -1;
+		 while ((entity = FindEntityByTargetName(entity, "EasyTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 3 ){
+	ServerCommand("exec AutoMedium.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "MediumTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 4 ){
+	ServerCommand("exec AutoHard.cfg");
+	int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "HardTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 5 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 6 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() == 7 ){
+	ServerCommand("exec AutoInsane.cfg");
+		int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+		
+	if( GetClientCount() >= 8 ){
+	ServerCommand("exec AutoInsane.cfg");
+			int entity = -1;
+			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
+            AcceptEntityInput(entity, "Enable");
+        }
+        }
+    }	
+	
+		 if (strncmp(mapname, "pb_z_office_tower_h", 19) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -427,7 +783,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -436,7 +792,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "dm_montana_m", 12) == 0)
+	 if (strncmp(mapname, "dm_hontana_h", 12) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -494,7 +850,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -503,7 +859,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-		if (strncmp(mapname, "pb_z_office_tower_v2_m", 22) == 0)
+		if (strncmp(mapname, "pb_z_office_tower_v2_h", 22) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -561,7 +917,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -570,7 +926,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "pb_z_colony_m", 13) == 0)
+	 if (strncmp(mapname, "pb_z_colony_h", 13) == 0)
 	    {
 	if( nClients == 1) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -628,7 +984,7 @@ void UpdateHeadcrab() {
         }
         }
 		
-	if( GetClientCount() == 8 ){
+	if( GetClientCount() >= 8 ){
 	ServerCommand("exec AutoInsane.cfg");
 			int entity = -1;
 			 while ((entity = FindEntityByTargetName(entity, "InsaneTextEnabler")) != -1) {
@@ -637,7 +993,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "pb_z_disorder_m", 15) == 0)
+	 if (strncmp(mapname, "pb_z_disorder_h", 15) == 0)
 	    {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -712,7 +1068,7 @@ void UpdateHeadcrab() {
         }
     }
 	
- if (strncmp(mapname, "pb_z_underground_m", 18) == 0)
+ if (strncmp(mapname, "pb_z_underground_h", 18) == 0)
 	    {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -787,7 +1143,7 @@ void UpdateHeadcrab() {
         }
     }
 	
- if (strncmp(mapname, "dm_cave_m", 9) == 0)
+ if (strncmp(mapname, "dm_cave_h", 9) == 0)
 	    {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -862,7 +1218,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	if (strncmp(mapname, "dm_coldruins_rc1_m", 18) == 0)
+	if (strncmp(mapname, "dm_coldruins_rc1_h", 18) == 0)
 	    {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -937,7 +1293,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	if (strncmp(mapname, "pb_z_industry_m", 15) == 0)
+	if (strncmp(mapname, "pb_z_industry_h", 15) == 0)
 	    {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1012,7 +1368,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "pb_z_earthquake_m", 17) == 0)
+	 if (strncmp(mapname, "pb_z_earthquake_h", 17) == 0)
         {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1087,7 +1443,7 @@ void UpdateHeadcrab() {
         }
     }
 	
- if (strncmp(mapname, "dm_laststop_m", 13) == 0)
+ if (strncmp(mapname, "dm_laststop_h", 13) == 0)
     {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1162,7 +1518,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "dm_raven_m", 10) == 0)
+	 if (strncmp(mapname, "dm_raven_h", 10) == 0)
     {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1237,7 +1593,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-  if (strncmp(mapname, "dm_mine_entrance_m", 18) == 0)
+  if (strncmp(mapname, "dm_hine_entrance_h", 18) == 0)
     {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1312,7 +1668,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "dm_raven_m", 10) == 0)
+	 if (strncmp(mapname, "dm_raven_h", 10) == 0)
     {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");
@@ -1387,7 +1743,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-	 if (strncmp(mapname, "pb_z_high_school_m", 18) == 0)
+	 if (strncmp(mapname, "pb_z_high_school_h", 18) == 0)
     {
 		
 	if( nClients == 0) {
@@ -1463,7 +1819,7 @@ void UpdateHeadcrab() {
         }
     }
 	
-    if (strncmp(mapname, "pb_z_area51_m", 13) == 0)
+    if (strncmp(mapname, "pb_z_area51_h", 13) == 0)
     {
    
  	if( nClients == 0) {
@@ -1539,7 +1895,7 @@ void UpdateHeadcrab() {
         }
     }
 	    
-	if (strncmp(mapname, "dm_morbid_m", 13) == 0)
+	if (strncmp(mapname, "dm_horbid_h", 13) == 0)
     {
 	if( nClients == 0) {
 	ServerCommand("exec AutoEasy.cfg");

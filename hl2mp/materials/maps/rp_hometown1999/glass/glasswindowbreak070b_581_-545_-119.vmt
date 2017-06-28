@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hometown1999/c581_-545_-119"
+		"Proxies"
+		{
+		}
+	}
+}
