@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CITY_MURKY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_surrender_b2/c844_1015_-391"
+		"Proxies"
+		{
+		}
+	}
+}

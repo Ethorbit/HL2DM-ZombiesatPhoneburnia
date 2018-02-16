@@ -1,0 +1,5 @@
+"LightMappedGeneric"
+{
+	"$baseTexture" "custom\gold_round"
+	"$surfaceprop" "metal"
+}

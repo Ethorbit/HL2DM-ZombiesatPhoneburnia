@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_trainstation/Bench_Wood"
+	"$surfaceprop" "wood"
+}

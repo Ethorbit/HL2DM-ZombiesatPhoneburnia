@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/STONE/STONEWALL051B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_surrender_b2/c-255_-543_-279"
+	}
+}

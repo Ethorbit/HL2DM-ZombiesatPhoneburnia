@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALDOOR039A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_surrender_b2/c54_384_-331"
+	}
+}

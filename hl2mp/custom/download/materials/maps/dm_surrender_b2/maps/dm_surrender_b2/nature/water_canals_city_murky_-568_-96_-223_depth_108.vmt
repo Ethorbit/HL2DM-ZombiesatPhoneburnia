@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/maps/dm_surrender_b2/nature/water_canals_city_murky_-568_-96_-223.vmt"
+	"insert"
+	{
+		"$waterdepth"		"108"
+	}
+}

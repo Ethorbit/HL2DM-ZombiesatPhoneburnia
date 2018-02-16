@@ -3,15 +3,15 @@ pb_z_colony_h
 pb_z_disorder_h
 pb_z_earthquake_h
 pb_z_high_school_h
-dm_hometown1999_h
 pb_z_industry_h
 pb_z_office_tower_h
 pb_z_office_tower_v2_h
 pb_z_underground_h
+dm_aftermath_h
 dm_cave_h
 dm_central_station_v1_h
 dm_coldruins_rc1_h
-dm_hellsdistrict_h
+dm_hometown1999_h
 dm_laststop_h
 dm_mine_entrance_h
 dm_morbid_h
@@ -19,6 +19,8 @@ dm_montana_h
 dm_october_h
 dm_pinnacles_h
 dm_raven_h
+dm_richland_h
 dm_snowfall_h
+dm_surrender_h
 dm_thetunnel_v1_h
 z_ravenhell_h

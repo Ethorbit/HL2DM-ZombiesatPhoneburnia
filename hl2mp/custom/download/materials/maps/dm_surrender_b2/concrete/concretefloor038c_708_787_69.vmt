@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR038C.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_surrender_b2/c708_787_69"
+	}
+}

@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Glass/glasswindowbreak070a"
+	"$envmap" "env_cubemap"
+	"$surfaceprop" "glass"
+	"$envmapmask" "glass/glasswindowbreak070a_mask"
+
+
+	"LightmappedGeneric_dx6"
+	{
+		// This takes into account the alpha channel of the basetexture
+		// which we can't modulate against under dx7 since envmap
+		// happens in a separate pass
+		"$envmaptint" "[0.5 0.5 0.5]"
+	}
+}

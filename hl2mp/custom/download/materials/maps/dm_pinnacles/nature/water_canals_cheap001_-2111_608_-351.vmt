@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CHEAP001.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_pinnacles/c-2111_608_-351"
+		"Proxies"
+		{
+		}
+	}
+}

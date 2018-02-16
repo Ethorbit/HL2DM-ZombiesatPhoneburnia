@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL031A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_hometown1999/c-1343_335_-103"
+	}
+}

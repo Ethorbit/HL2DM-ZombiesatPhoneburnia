@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/dm_surrender_b2/c1268_-557_69"
+		"Proxies"
+		{
+		}
+	}
+}
