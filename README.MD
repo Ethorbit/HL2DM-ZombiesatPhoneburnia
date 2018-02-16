@@ -14,20 +14,24 @@ https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 * Server carries a few helpful workaround fixes such as !models that will let players choose any model without the error "please wait 4   seconds"
 
 ## How to set this up
-* Replace all the files in your FTP Client, ONLY REPLACE THE hl2mp FOLDER WITH THIS hl2mp FOLDER.
-* If you're setting this up for Singleplayer, just replace your bin's server.dll with this server.dll and optionally copy the server.cfg and replace your's. Remember to include the pb maps client side too.
+* Replace all the files in your FTP Client or SRCDS directory. Don't delete any files, but rather merge this hl2mp folder with the original hl2mp folder.
+Make sure to clear out admins.cfg in the addons/sourcemod/configs, I might've forgotten.
+* If you're setting this up for Singleplayer, just replace your bin's server.dll/server.so with this server.dll/server.so and optionally copy the server.cfg and replace your's. Remember to include the pb maps client side too.
 
 ## Errors
 * Vortigaunts slightly aim a bit off.
+* Unfixable exploit to kill players.
+* Fastzombies jump towards the player but stop from the force of nothing. (Doesn't happen all the time)
+* Zombies die in one hit from the shotgun attack2 sometimes (It's supposed to be 2 hits with attack2)
+* A few difficulty system configurations for some maps have vanished. (This is being worked on and almost completely fixed)
 
-If a developer is willing to fix this, please contact me so I can implement the fix.
+If a developer is willing to fix this, please contact me so I can implement the fixes.
 
 hi1212003@gmail.com
 
 http://steamcommunity.com/id/Ethorbit
 
 # THIS IS IN BETA! MEANING I'M NOT DONE YET AND THINGS WILL BE ADDED IN THE FUTURE SUCH AS MORE MAPS WITH RESPAWNING ZOMBIES OR BUG FIXES!!
-## Maps supporting the difficulty system are still being added. 
 
 ## Enjoy my hard work?
 Donate here: https://www.paypal.me/Ethorbit
