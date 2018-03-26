@@ -23,7 +23,6 @@ Make sure to clear out admins.cfg in the addons/sourcemod/configs, I might've fo
 * Unfixable exploit to kill players.
 * Fastzombies jump towards the player but stop from the force of nothing. (Doesn't happen all the time)
 * Zombies die in one hit from the shotgun attack2 sometimes (It's supposed to be 2 hits with attack2)
-* A few difficulty system configurations for some maps have vanished. (This is being worked on and almost completely fixed)
 
 If a developer is willing to fix this, please contact me so I can implement the fixes.
 
