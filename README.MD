@@ -30,7 +30,5 @@ hi1212003@gmail.com
 
 http://steamcommunity.com/id/Ethorbit
 
-# THIS IS IN BETA! MEANING I'M NOT DONE YET AND THINGS WILL BE ADDED IN THE FUTURE SUCH AS MORE MAPS WITH RESPAWNING ZOMBIES OR BUG FIXES!!
-
 ## Enjoy my hard work?
 Donate here: https://www.paypal.me/Ethorbit
