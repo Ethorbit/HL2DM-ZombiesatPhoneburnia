@@ -13,6 +13,8 @@ https://www.dropbox.com/s/fkpdqsrpz1ctn4f/server.so?dl=0
 * Monsters in this gamemode are: zombies, fastzombies, vortigaunts, headcrabs, fastheadcrabs, antlions and antlion guards.
 * Server carries a few helpful workaround fixes such as !models that will let players choose any model without the error "please wait 4   seconds"
 
+[![Video Preview](https://i.imgur.com/uG9RGzw.png)](https://www.youtube.com/watch?v=XHywZt_2ryk "Zombies (@ Phoneburnia) z_ravenhell")
+
 ## How to set this up
 * Replace all the files in your FTP Client or SRCDS directory. Don't delete any files, but rather merge this hl2mp folder with the original hl2mp folder.
 Make sure to clear out admins.cfg in the addons/sourcemod/configs, I might've forgotten.
